@@ -1,5 +1,6 @@
 <html>
 策略 軟件 資管 <a href='http://www.youtube.com/c/美股数据张老师'>Youtube Channel</a><br>
+獨家免費數據 支持： 美股 港股 美期 期權 恆指 K線數據 即時報價 <br>
 策略 代碼 分享 <a href='https://github.com/hktrade'>Python & Tradingview</a><br>
 <br>
 【騰訊文檔】<a href='https://docs.qq.com/doc/DUHpnenhKZ2pxSGlv'>Python & Tradingview 美 港 幣 付費課程表</a><br>
