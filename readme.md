@@ -6,7 +6,8 @@
 <br>
 【騰訊文檔】<a href='https://docs.qq.com/doc/DUFFacEdnc1hBRkVG'>恆指期貨 牛熊證 窝轮 7200 7500 程式教程</a><br>
 <br>
-老虎註冊送3K美金+小米<a href='https://www.itigerup.com/activity/forapp/welcome/?group_id=CG3001931530&invite=MGSJZLS'>送3K美金+小米</a><br>
+老虎證券 低佣金 支持程式交易 特邀開戶 送現金 送股票 邀請碼：MGSJZLS<br>
+<a href='https://www.itigerup.com/signup?invite=MGSJZLS'>https://www.itigerup.com/signup?invite=MGSJZLS</a><br>
 <br>
 TG group: @Bpython<br>
 QQ group: 853287197
