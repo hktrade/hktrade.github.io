@@ -3,10 +3,10 @@
 赠送期货实盘+模拟API权限<br>
 港股：永久$0佣金、限时$0平台费*<br>
 美股：限时$0佣金、再送三个月L2 NYSE Arca深度行情*<br>
-<a href=https://www.tigerbrokers.com.hk/activity/market/2022/welcome-hk/?adcode=20221114151350&invite=MGSJZLS'>香港地区开户链接 邀請碼：MGSJZLS</a><br>
+<a href='https://www.tigerbrokers.com.hk/activity/market/2022/welcome-hk/?adcode=20221114151350&invite=MGSJZLS'>香港地区开户链接 邀請碼：MGSJZLS</a><br>
 <br>
 老虎證券 低佣金 特邀開戶 送現金 送股票 邀請碼：MGSJZLS<br>
-<a href='https://www.tigertcp.cn/signup?invite=MGSJZLS'>老虎国际 赠送期货实盘+模拟API权限 免费指导安装</a><br>
+<a href='https://www.tigertcp.cn/signup?invite=MGSJZLS'>香港以外的國家 老虎国际 赠送期货实盘+模拟API权限 免费指导安装</a><br>
 <br>
 美股 選擇權 恆指期貨 牛熊證 策略 大數據 長視頻 短視頻<br> <a href='http://www.youtube.com/c/美股数据张老师'>Youtube Channel</a><br><br>
 Python & Tradingview策略 代碼 分享 <br><a href='https://github.com/hktrade'>https://github.com/hktrade</a><br>
