@@ -23,7 +23,7 @@ Twitter
 <br><br>
 Python / Tradingview 付費客戶和學生請加<br>
 TG: @MGSJZLS<br>
-VX: hktrade2022<br>
+VX: MGSJZLS<br>
 加 TG 微信 請寫明備註<br>
 <br>
 獨家免費數據 支持： 美股 港股 美期 期權 恆指 K線數據 即時報價 <br>
