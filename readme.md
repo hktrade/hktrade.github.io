@@ -1,4 +1,5 @@
 <html>
+<img src='https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/qr_tmp.jpg' alt="TG @MGSJZLS" /img>
 <br>
 贈送期貨實盤+模擬API權限<br>
 港股：永久$0傭金、限時$0平台費*<br>
