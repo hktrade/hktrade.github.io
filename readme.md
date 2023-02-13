@@ -8,8 +8,11 @@
 <a href='https://www.tigerbrokers.com.hk/activity/market/2022/welcome-hk/?adcode=20221114151350&invite=MGSJZLS'>香港地區開戶鏈接 邀請碼：MGSJZLS</a><br>
 <br>
 老虎證券 低佣金 特邀開戶 送現金 送股票 邀請碼：MGSJZLS<br>
-<a href='https://www.tigertcp.cn/signup?invite=MGSJZLS'>香港以外的國家 老虎国际 赠送期货实盘+模拟API权限 免费指导安装</a><br>
+赠送期货实盘+模拟API权限 免费指导安装<br>
+<a href='https://www.tigertcp.cn/signup?invite=MGSJZLS'>香港以外的國家 老虎国际開戶 </a><br>
 <br>
+<a href='https://www.tigerbrokers.com.sg/activity/market/2022/welcome-sgp/?template=AC1665389958774ybmreB&adcode=AC1665389958774ybmreB&invite=MGSJZLS'>老虎 新加坡 東南亞地區 開戶</a><br>
+<br><br>
 美股 選擇權 恆指期貨 牛熊證 策略 大數據 長視頻 短視頻<br> <a href='http://www.youtube.com/c/美股数据张老师'>Youtube Channel</a><br><br>
 Python & Tradingview策略 代碼 分享 <br><a href='https://github.com/hktrade'>https://github.com/hktrade</a><br>
 <br>
@@ -33,4 +36,3 @@ Python / Tradingview 付費客戶和學生請加<br>
 TG: @MGSJZLS<br>
 VX: MGSJZLS<br>
 加 TG 微信 請寫明備註<br>
- <img src='https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/qr_tmp.jpg' alt="TG @MGSJZLS">
