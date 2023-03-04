@@ -3,11 +3,11 @@
 <a href='https://t.me/mgsjzls'>https://t.me/mgsjzls</a>
 <br>
 TG: @MGSJZLS<br>
-TG Group: @@hktradeGroup<br>
+TG Group: @hktradeGroup<br>
 可申請加入跟單喊單群<br>
+付費投資者加微信: @MGSJZLS<br>
 <br><br>
 
-<br>
 【騰訊文檔】<a href='https://docs.qq.com/doc/DUE14WmFKaUFkS0hJ'>老虎注册 安装程式交易API 教程</a><br>
 <br>
 【騰訊文檔】<a href='https://docs.qq.com/doc/DUHlZVFpRTHZMbW5x'>期權交易程式 設置詳細說明 實盤切換 止盈止損</a><br>
@@ -32,7 +32,6 @@ TG Group: @@hktradeGroup<br>
 <a href='https://www.tigerbrokers.com.sg/activity/market/2022/welcome-sgp/?template=AC1665389958774ybmreB&adcode=AC1665389958774ybmreB&invite=MGSJZLS'>老虎 新加坡 東南亞 開戶</a><br>
 <br>
 
-<br>
 美股 選擇權 恆指期貨 牛熊證 策略 大數據 長視頻 短視頻<br> <a href='http://www.youtube.com/c/美股数据张老师'>Youtube Channel</a><br><br>
 Python & Tradingview策略 代碼 分享 <br><a href='https://github.com/hktrade'>https://github.com/hktrade</a><br>
 <br>
