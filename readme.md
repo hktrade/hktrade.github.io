@@ -7,7 +7,12 @@
 <br>
 付费请 写备注 加微信  MGSJZLS
 <br>
-
+<br>
+美股 恆指期貨 牛熊證 策略 Youtube Channel <br> <a href='http://www.youtube.com/@mgsjzls'>www.youtube.com/@mgsjzls</a><br><br>
+<br>
+Tiktok  <a href='http://www.tiktok.com/@mgsjzls'>www.tiktok.com/@mgsjzls</a><br>
+Python & Tradingview策略 代碼 分享 <br><a href='https://github.com/hktrade'>https://github.com/hktrade</a><br>
+ 
 【騰訊文檔】<a href='https://docs.qq.com/doc/DUE14WmFKaUFkS0hJ'>老虎注册 安装程式交易API 教程</a><br>
 <br>
 【騰訊文檔】<a href='https://docs.qq.com/doc/DUHlZVFpRTHZMbW5x'>期權交易程式 設置詳細說明 實盤切換 止盈止損</a><br>
@@ -30,10 +35,7 @@
 <a href='https://www.tigertcp.cn/signup?invite=MGSJZLS'>香港以外的國家 老虎国际開戶 </a><br>
 <br>
 <a href='https://www.tigerbrokers.com.sg/activity/market/2022/welcome-sgp/?template=AC1665389958774ybmreB&adcode=AC1665389958774ybmreB&invite=MGSJZLS'>老虎 新加坡 東南亞 開戶</a><br>
-<br>
 
-美股 選擇權 恆指期貨 牛熊證 策略 大數據 長視頻 短視頻<br> <a href='http://www.youtube.com/c/美股数据张老师'>Youtube Channel</a><br><br>
-Python & Tradingview策略 代碼 分享 <br><a href='https://github.com/hktrade'>https://github.com/hktrade</a><br>
 <br>
 <br>
 獨家免費數據 支持： 美股 港股 美期 期權 恆指 K線數據 即時報價 <br>
