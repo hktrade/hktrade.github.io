@@ -2,11 +2,11 @@
 
 <a href='https://t.me/mgsjzls'>https://t.me/mgsjzls</a>
 <br>
-TG: @MGSJZLS<br>
-TG Group: @hktradeGroup<br>
+免费加TG: @MGSJZLS<br>
 可申請加入跟單喊單群<br>
-無TG 或 付費投資者 請在Youtube留言<br>
-<br><br>
+<br>
+付费请 写备注 加微信  MGSJZLS
+<br>
 
 【騰訊文檔】<a href='https://docs.qq.com/doc/DUE14WmFKaUFkS0hJ'>老虎注册 安装程式交易API 教程</a><br>
 <br>
