@@ -8,9 +8,9 @@
 付费请 写备注 加微信  MGSJZLS
 <br>
 <br>
-美股 恆指期貨 牛熊證 策略 Youtube Channel <br> <a href='http://www.youtube.com/@mgsjzls'>www.youtube.com/@mgsjzls</a><br><br>
-<br>
-Tiktok  <a href='http://www.tiktok.com/@mgsjzls'>www.tiktok.com/@mgsjzls</a><br>
+美股 恆指期貨 牛熊證 策略 Youtube Channel <br> <a href='http://www.youtube.com/@mgsjzls'>www.youtube.com/@mgsjzls</a><br>
+
+Tiktok <br>  <a href='http://www.tiktok.com/@mgsjzls'>www.tiktok.com/@mgsjzls</a><br>
 Python & Tradingview策略 代碼 分享 <br><a href='https://github.com/hktrade'>https://github.com/hktrade</a><br>
  
 【騰訊文檔】<a href='https://docs.qq.com/doc/DUE14WmFKaUFkS0hJ'>老虎注册 安装程式交易API 教程</a><br>
@@ -40,11 +40,4 @@ Python & Tradingview策略 代碼 分享 <br><a href='https://github.com/hktrade
 <br>
 獨家免費數據 支持： 美股 港股 美期 期權 恆指 K線數據 即時報價 <br>
  <br>
- <br>
-Python / Tradingview 付費客戶和學生請加<br>
-<br>
-<a href='https://t.me/mgsjzls'>https://t.me/mgsjzls</a>
-<br>
-TG: @MGSJZLS<br>
-TG Group: @@hktradeGroup<br>
-可申請加入跟單喊單群<br>
+
