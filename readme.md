@@ -9,7 +9,7 @@
 詳情請添加電報或微信資訊<br><br>
 
  [<img src="https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/reg.jpg"  width="200" height="200">]([開戶即刻獲取獎勵](https://www.tigerbrokers.com.hk/marketing/glhk?invite=MGZLSHK)]
-
+<a href='https://www.tigerbrokers.com.hk/marketing/glhk?invite=MGZLSHK'>開戶即刻獲取獎勵</a>
 <br>
  
 <a href='https://t.me/mgsjzls'>https://t.me/mgzlshk</a>
