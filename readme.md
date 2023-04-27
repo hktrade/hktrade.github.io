@@ -3,7 +3,7 @@
 納斯達克上市券商 內地 香港 新加坡 海外 投資者 如何開戶？<br>
 最新活動獎勵千元 港股美股免佣金<br>
 香港 新加坡 海外 投資者 請直接點擊 <br><br>
- <a href='https://www.tigerbrokers.com.hk/marketing/glhk?invite=MGZLSHK&lang=zh_TW'>https://www.tigerbrokers.com.hk/marketing/glhk?invite=MGZLSHK</a><br>
+ <a href='https://www.tigerbrokers.com.hk/marketing/glhk?invite=MGZLSHK&lang=zh_TW'>立即開戶 邀請碼 MGZLSHK</a><br>
  <a href='https://www.tigerbrokers.com.hk/marketing/glhk?invite=MGZLSHK&lang=zh_TW'>開戶即刻獲取獎勵 App商店搜索 老虎國際</a><br><br>
 內地投資者 需要聯繫張老師申請白名單之後 才可以突破開戶限制。<br>
 是否已經有港卡？如未有，計劃幾時返香港開卡？因為親身到香港開卡費用比國內找中介便宜。<br>
