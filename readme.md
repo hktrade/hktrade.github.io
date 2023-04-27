@@ -7,8 +7,10 @@
 是否已經有港卡？如未有，計劃幾時返香港開卡？因為親身到香港開卡費用比國內找中介便宜。<br>
 如果已申請港卡記住不可隨意在內地網絡環境進行開戶，因為會被判定是內地身份開戶<br>
 詳情請添加電報或微信資訊<br><br>
-<img scr='https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/reg.jpg'><br>
+
+ [<img src="[img/myImage.png](https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/reg.jpg)">]([http://example.com/](https://www.tigerbrokers.com.hk/marketing/glhk?invite=MGZLSHK))
 <br>
+ 
 <a href='https://t.me/mgsjzls'>https://t.me/mgzlshk</a>
 <br>
 加TG: @MGZLSHK<br>
