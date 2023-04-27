@@ -8,7 +8,8 @@
 如果已申請港卡記住不可隨意在內地網絡環境進行開戶，因為會被判定是內地身份開戶<br>
 詳情請添加電報或微信資訊<br><br>
 
- [<img src="[img/myImage.png](https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/reg.jpg)">]([http://example.com/](https://www.tigerbrokers.com.hk/marketing/glhk?invite=MGZLSHK))
+ [<img src="[https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/reg.jpg]">]([http://example.com/](https://www.tigerbrokers.com.hk/marketing/glhk?invite=MGZLSHK)]
+
 <br>
  
 <a href='https://t.me/mgsjzls'>https://t.me/mgzlshk</a>
