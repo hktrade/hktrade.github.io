@@ -19,8 +19,7 @@
  <br>
 <a href='https://t.me/mgsjzls'>https://t.me/hktrade2024</a>
 <br>
-加TG: @MGZLSHK<br>
-申請加入會員頻道 可免費體驗一個月<br>
+
 <br>
 付费请 写备注 加 TG or 微信  hktrade2024
  TG Group 免費交流群
