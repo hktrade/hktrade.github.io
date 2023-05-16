@@ -14,12 +14,17 @@
 <br><a href='https://www.tigerbrokers.com.hk/marketing/glhk?invite=MGZLSHK&lang=zh_TW'>開戶即刻獲取獎勵 App商店搜索 老虎國際</a>
 <br>
  <br>
-<a href='https://t.me/mgsjzls'>https://t.me/mgzlshk</a>
+【腾讯文档】<a href='https://docs.qq.com/doc/DUEJobHdWcEtPcHRI'>FUTU 富途牛牛 moomoo  券商開戶 邀請碼 送千元現金</a><br>
+<br>
+ <br>
+<a href='https://t.me/mgsjzls'>https://t.me/hktrade2024</a>
 <br>
 加TG: @MGZLSHK<br>
 申請加入會員頻道 可免費體驗一個月<br>
 <br>
-付费请 写备注 加微信  hktrade2024
+付费请 写备注 加 TG or 微信  hktrade2024
+ TG Group 免費交流群
+ <a href='https://t.me/mgsjzls'>https://t.me/hktradeai</a>
 <br>
 <br>
 美股 恆指期貨 牛熊證 策略 Youtube Channel <br> <a href='http://www.youtube.com/@mgsjzls'>www.youtube.com/@mgsjzls</a><br>
@@ -37,9 +42,6 @@ Python & Tradingview策略 代碼 分享 <br><a href='https://github.com/hktrade
 <br>
 【騰訊文檔】<a href='https://docs.qq.com/doc/DUFFacEdnc1hBRkVG'>恆指期貨 牛熊證 窝轮 7200 7500 程式教程</a><br>
 
-<br>
-【腾讯文档】<a href='https://docs.qq.com/doc/DUEJobHdWcEtPcHRI'>FUTU  券商開戶 邀請碼 送千元現金</a><br>
-<br>
 獨家免費數據 支持： 美股 港股 美期 期權 恆指 K線數據 即時報價 <br>
  <br>
 
