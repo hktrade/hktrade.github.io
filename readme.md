@@ -1,5 +1,13 @@
 <html>
-
+<br>
+<a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a>
+<br>
++ TG or 微信  hktrade2024<br>
+ TG Group 免費交流群 ChatGPT AI 落單推送 美股 短線 中線 期權  , MHI MNQ 牛熊證 恆指 期貨<br>
+ <a href='https://t.me/mgsjzls'>https://t.me/hktradeai</a>
+<br>
+<br>
+美股 恆指期貨 牛熊證 策略 Youtube Channel <br> <a href='http://www.youtube.com/@mgsjzls'>www.youtube.com/@mgsjzls</a><br>
 納斯達克上市券商 內地 香港 新加坡 海外 投資者 如何開戶？<br>
 最新活動獎勵千元 港股美股免佣金<br>
 香港 新加坡 海外 投資者 請直接點擊 <br><br>
@@ -16,17 +24,6 @@
  <br>
 【腾讯文档】<a href='https://docs.qq.com/doc/DUEJobHdWcEtPcHRI'>FUTU 富途牛牛 moomoo  券商開戶 邀請碼 送千元現金</a><br>
 <br>
- <br>
-<a href='https://t.me/mgsjzls'>https://t.me/hktrade2024</a>
-<br>
-
-<br>
-付费请 写备注 加 TG or 微信  hktrade2024
- TG Group 免費交流群
- <a href='https://t.me/mgsjzls'>https://t.me/hktradeai</a>
-<br>
-<br>
-美股 恆指期貨 牛熊證 策略 Youtube Channel <br> <a href='http://www.youtube.com/@mgsjzls'>www.youtube.com/@mgsjzls</a><br>
 
 Tiktok <br>  <a href='http://www.tiktok.com/@mgsjzls'>www.tiktok.com/@mgsjzls</a><br>
 Python & Tradingview策略 代碼 分享 <br><a href='https://github.com/hktrade'>https://github.com/hktrade</a><br>
