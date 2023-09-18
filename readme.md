@@ -1,6 +1,12 @@
 ![image description](tg1.jpg)
 ![image description](tg2.jpg)
 <html>
+ <br>
+ 千元獎勵 華勝通 老虎 富途開戶 粉絲福利 微信同TG號 hktrade2024
+ <br>
+ hktrade2024
+ <br>
+ TG <a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a>
 <br>
 
 TG <a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a>
