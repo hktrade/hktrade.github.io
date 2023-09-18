@@ -6,7 +6,8 @@
  <br>
  hktrade2024
  <br>
- TG <a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a>
+Click to Friend my TG <a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a>
+<br>
 <br>
 
 TG <a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a>
