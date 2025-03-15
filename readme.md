@@ -1,4 +1,3 @@
-![image description](tg1.jpg)
 [<img src="tg1.jpg">](http://j.moomoo.com/00yLZM)
 <html>
  <br>
