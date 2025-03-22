@@ -26,7 +26,7 @@
 
 <br>
 <br>
-Follow me:
+Follow me:<br>
 <br>Youtube <a href='https://youtube.com/@ai_nasdaq'> <br>
 <br>X <a href='https://x.com/hktrade2022'> <br>
 <br>Threads <a href='https://threads.net/@ai_nasdaq'> <br>
