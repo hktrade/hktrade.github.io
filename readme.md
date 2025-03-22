@@ -24,4 +24,12 @@
 富途牛牛APP 我的 活動中心 兌換中心 <br>
 輸入兌換碼 J3GDQQWR<br>
 
+<br>
+<br>
+Follow me:
+<br>Youtube <a href='https://youtube.com/@ai_nasdaq'> <br>
+<br>X <a href='https://x.com/hktrade2022'> <br>
+<br>Threads <a href='https://threads.net/@ai_nasdaq'> <br>
+<br>Patreon <a href='https://patreon.com/hktrade2022'> <br>
+
 
