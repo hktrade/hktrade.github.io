@@ -15,11 +15,13 @@
 <br>
 富途牛牛APP 我的 活動中心 兌換中心 <br>
 輸入兌換碼 J3GDQQWR<br></a>
-[<img src="http://8.138.123.235/curl/month.jpg">]
+<img src="http://8.138.123.235/curl/month.jpg">
 <br>
+
 <video controls="" muted="" loop="" autoplay="">
 <source src="http://8.138.123.235/curl/J3GDQQWR.mp4" type="video/mp4">
 </video>
+
 <br>
 Follow me:<br>
 <br> <a href='https://youtube.com/@ai_nasdaq'> Youtube </a> <br>
