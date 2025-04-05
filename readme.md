@@ -9,22 +9,17 @@
 <br>
 
 <br>富途moomoo開戶 <a href='https://j.moomoo.com/00yLZM'> <br>
-【【活動時間】：2025年2月24日18:00 -2025年3月31日 23:59<br>
-【常規優惠】:<br>
-一重賞（三選一）：<br>
-1. 等值HK$600 特斯拉（NASDAQ：TSLA ）<br>
-2. HK$400 現金券<br>
-3. 等值HK$600 比特幣<br>
-二重賞（二選一）：<br>
-1. 等值HK$1000 比特幣<br>
-2. 等值HK$1000 特斯拉（NASDAQ：TSLA ）<br>
+
 <br>
 香港富途牛牛開戶 
 <br>
 富途牛牛APP 我的 活動中心 兌換中心 <br>
 輸入兌換碼 J3GDQQWR<br></a>
-
+[<img src="http://8.138.123.235/curl/month.jpg">]
 <br>
+<video controls="" muted="" loop="" autoplay="">
+<source src="http://8.138.123.235/curl/J3GDQQWR.mp4" type="video/mp4">
+</video>
 <br>
 Follow me:<br>
 <br> <a href='https://youtube.com/@ai_nasdaq'> Youtube </a> <br>
