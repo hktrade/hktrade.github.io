@@ -15,6 +15,7 @@
 <br>
 富途牛牛APP 我的 活動中心 兌換中心 <br>
 輸入兌換碼 J3GDQQWR<br>
+富途桌面版 手機版 下載地址 <a href='https://www.futunn.com/en'>https://www.futunn.com/en</a><br>
 <img src="https://github.com/hktrade/hktrade.github.io/blob/main/month.jpg">
 <br><br>
 詳細視頻教程 輸入兌換碼 J3GDQQWR
