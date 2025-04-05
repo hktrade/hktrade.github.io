@@ -8,13 +8,13 @@
 點擊Telegram鏈接 <a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a>
 <br>
 
-<br>富途moomoo開戶 <a href='https://j.moomoo.com/00yLZM'> <br>
+<br>富途moomoo開戶 <a href='https://j.moomoo.com/00yLZM'> <br></a>
 
 <br>
 香港富途牛牛開戶 
 <br>
 富途牛牛APP 我的 活動中心 兌換中心 <br>
-輸入兌換碼 J3GDQQWR<br></a>
+輸入兌換碼 J3GDQQWR<br>
 <img src="https://github.com/hktrade/hktrade.github.io/blob/main/month.jpg">
 <br><br>
 詳細視頻教程 輸入兌換碼 J3GDQQWR
