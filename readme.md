@@ -1,15 +1,17 @@
 [<img src="tg1.jpg">](http://j.moomoo.com/00yLZM)
 <html>
  <br>
-美股、港股，全球市場 以及 加密貨幣 富途Moomoo，一站式投資神器，來幫你！每個月都有豐厚的開戶獎勵等你領取。詳情請點擊鏈接。 
- <br>
-開戶添加好友 TG: hktrade2024 , DC : ai_nasdaq  , V : MGSJZLS 
- <br>
-點擊Telegram鏈接 <a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a>
-<br>
+美股、港股，全球市場 以及 加密貨幣 <br>
+富途Moomoo，一站式投資神器，來幫你！ <br>
+每月豐厚的開戶獎等你領取。詳情點鏈接<br>
+開戶以及美股期權期貨比特幣會員群 加好友 <br>
+ TG: hktrade2024<br> 
+ DC : ai_nasdaq <br> 
+ V : MGSJZLS  可備註進群 <br>
+點擊Telegram鏈接加好友 <a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a><br><br>
+點擊Telegram鏈接進Group<a href='https://t.me/ai_youtu'>https://t.me/ai_youtu</a><br>
 
-<br>富途moomoo開戶 <a href='https://j.moomoo.com/00yLZM'> <br></a>
-
+<br>富途moomoo全球開戶 <a href='https://j.moomoo.com/00yLZM'> <br></a>
 <br>
 香港富途牛牛開戶 
 <br>
