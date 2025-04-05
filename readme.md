@@ -8,8 +8,8 @@
  TG: hktrade2024<br> 
  DC : ai_nasdaq <br> 
  V : MGSJZLS  可備註進群 <br>
-點擊Telegram鏈接加好友 <a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a><br><br>
-點擊Telegram鏈接進Group<a href='https://t.me/ai_youtu'>https://t.me/ai_youtu</a><br>
+點擊Telegram鏈接加好友<br><a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a><br><br>
+點擊Telegram鏈接進Group<br><a href='https://t.me/ai_youtu'>https://t.me/ai_youtu</a><br>
 
 <br>富途moomoo全球開戶 <a href='https://j.moomoo.com/00yLZM'> <br></a>
 <br>
