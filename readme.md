@@ -18,7 +18,7 @@
 <img src="http://8.138.123.235/curl/month.jpg">
 <br>
 
-<video controls="" muted="" loop="" autoplay="">
+<video controls="" muted="" loop="" autoplay="0">
 <source src="http://8.138.123.235/curl/J3GDQQWR.mp4" type="video/mp4">
 </video>
 
