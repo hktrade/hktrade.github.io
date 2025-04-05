@@ -22,9 +22,7 @@
 <br><br>
 詳細視頻教程 輸入兌換碼 J3GDQQWR
 <br>
-<video controls="" muted="" loop="" autoplay="0">
-<source src="J3GDQQWR.mp4" type="video/mp4">
-</video>
+<a href='J3GDQQWR.mp4'>點擊詳細視頻教程<br><br>
 
 <br>
 Follow me:<br>
