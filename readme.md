@@ -4,7 +4,7 @@ Follow me:<br>
 <br> <a href='https://www.youtube.com/watch?v=joI6c7cCx_k&list=PL-YrR5UR53BykxWEIURLDvIEERT0upI4-'> Youtube 美股教學 跟單視頻專輯 </a> <br>
 <br> <a href='https://x.com/hktrade2022'>X </a> <br>
 <br> <a href='https://threads.net/@ai_nasdaq'>Threads </a> <br>
-<br> <a href='https://patreon.com/hktrade2022'>Patreon </a> <br> 
+<br> <a href='https://patreon.com/hktrade2022'>Patreon </a> <br>  <br> 
 點擊Telegram鏈接博主加好友 付費進群<br><a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a><br><br>
 
 [<img src="tg1.jpg">](http://j.moomoo.com/00yLZM)
@@ -17,7 +17,7 @@ Follow me:<br>
  TG: hktrade2024<br> 
  DC : ai_nasdaq <br> 
  V : MGSJZLS  可備註進群 <br> <br>
-點擊Telegram鏈接博主加好友 付費進群<br><a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a><br>
+點擊Telegram鏈接博主加好友 付費進群<br><a href='https://t.me/hktrade2024'>https://t.me/hktrade2024</a><br> <br> 
 點擊Telegram鏈接進Group<br><a href='https://t.me/ai_youtu'>https://t.me/ai_youtu</a><br>
 點擊Discord 鏈接進Group<br><a href='https://discord.gg/eRmz5GjCHy'>https://discord.gg/eRmz5GjCHy</a><br><br>
 
