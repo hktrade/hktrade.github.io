@@ -1,3 +1,11 @@
+<br>
+Follow me:<br>
+<br> <a href='https://youtube.com/@ai_nasdaq'> Youtube </a> <br>
+<br> <a href='https://www.youtube.com/watch?v=joI6c7cCx_k&list=PL-YrR5UR53BykxWEIURLDvIEERT0upI4-'> Youtube 美股教學 跟單視頻專輯 </a> <br>
+<br> <a href='https://x.com/hktrade2022'>X </a> <br>
+<br> <a href='https://threads.net/@ai_nasdaq'>Threads </a> <br>
+<br> <a href='https://patreon.com/hktrade2022'>Patreon </a> <br> <br>
+
 [<img src="tg1.jpg">](http://j.moomoo.com/00yLZM)
 <html>
  <br>
@@ -27,6 +35,7 @@
 <br>
 Follow me:<br>
 <br> <a href='https://youtube.com/@ai_nasdaq'> Youtube </a> <br>
+<br> <a href='https://www.youtube.com/watch?v=joI6c7cCx_k&list=PL-YrR5UR53BykxWEIURLDvIEERT0upI4-'> Youtube 美股教學 跟單視頻專輯 </a> <br>
 <br> <a href='https://x.com/hktrade2022'>X </a> <br>
 <br> <a href='https://threads.net/@ai_nasdaq'>Threads </a> <br>
 <br> <a href='https://patreon.com/hktrade2022'>Patreon </a> <br>
