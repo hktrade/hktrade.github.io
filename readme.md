@@ -1,51 +1,51 @@
-# AI Nasdaq Investment Hub
+# AI Nasdaq 投資中心
 
-Your one-stop platform for US, HK, global markets, and cryptocurrency investments.
-
----
-
-## Follow Me
-
-- **[YouTube Channel](https://youtube.com/@ai_nasdaq)**  
-- **[YouTube US Stock Tutorials](https://www.youtube.com/watch?v=joI6c7cCx_k&list=PL-YrR5UR53BykxWEIURLDvIEERT0upI4-)**  
-- **[X Profile](https://x.com/hktrade2022)**  
-- **[Threads](https://threads.net/@ai_nasdaq)**  
-- **[Patreon](https://patreon.com/hktrade2022)**  
+您的美股、港股、全球市場及加密貨幣投資一站式平台。
 
 ---
 
-## Invest with Futu Moomoo
+## 關注我
 
-Trade US, HK, global markets, and cryptocurrencies with **Futu Moomoo**, your all-in-one investment platform! Enjoy generous signup bonuses every month.
-
-- **[Open Moomoo Account](https://j.moomoo.com/00yLZM)**  
-- For Hong Kong users: Download the Futu NiuNiu app and use the exchange code **J3GDQQWR** in the Activity Center.  
-- **[Download Futu Desktop/Mobile App](https://www.futunn.com/en)**  
-- Watch the detailed tutorial video for using the exchange code:  
-  **[Tutorial Video](J3GDQQWR.mp4)**  
+- **[YouTube 頻道](https://youtube.com/@ai_nasdaq)**
+- **[YouTube 美股教學視頻專輯](https://www.youtube.com/watch?v=joI6c7cCx_k&list=PL-YrR5UR53BykxWEIURLDvIEERT0upI4-)**
+- **[X 個人主頁](https://x.com/hktrade2022)**
+- **[Threads](https://threads.net/@ai_nasdaq)**
+- **[Patreon](https://patreon.com/hktrade2022)**
 
 ---
 
-## Join My Community
+## 使用富途 Moomoo 投資
 
-Connect with me and join exclusive groups for US stock options, futures, and Bitcoin trading!
+通過 **富途 Moomoo** 交易美股、港股、全球市場及加密貨幣，您的全方位投資平台！每月享受豐厚的開戶獎勵。
 
-- **Telegram**: Add me at [hktrade2024](https://t.me/hktrade2024) for paid group access.  
-- **Telegram Group**: Join [AI Youtu Group](https://t.me/ai_youtu).  
-- **Discord**: Join [Discord Group](https://discord.gg/eRmz5GjCHy).  
-- **Discord ID**: ai_nasdaq  
-- **WeChat ID**: MGSJZLS (Note: Mention group access when adding).  
-
-**[Join Telegram](https://t.me/hktrade2024)**
+- **[開設 Moomoo 賬戶](https://j.moomoo.com/00yLZM)**
+- 香港用戶：下載富途牛牛應用程式，並在活動中心輸入兌換碼 **J3GDQQWR**。
+- **[下載富途桌面/手機版應用](https://www.futunn.com/en)**
+- 查看使用富途牛牛兌換碼的詳細視頻教程：\
+  **[教程視頻](J3GDQQWR.mp4)**
 
 ---
 
-## Visuals
+## 加入我的社群
 
-| Telegram Promo | Monthly Promo |
-|----------------|---------------|
-| [![Telegram Promo](tg1.jpg)](http://j.moomoo.com/00yLZM) | ![Monthly Promo](month.jpg) |
+與我聯繫，加入美股期權、期貨及比特幣交易的獨家群組！
+
+- **Telegram**：通過 [hktrade2024](https://t.me/hktrade2024) 添加我以進入付費群組。
+- **Telegram 群組**：加入 [AI Youtu 群組](https://t.me/ai_youtu)。
+- **Discord**：加入 [Discord 群組](https://discord.gg/eRmz5GjCHy)。
+- **Discord ID**：ai_nasdaq
+- **微信 ID**：MGSJZLS（添加時請備註進群）。
+
+**[加入 Telegram VIP ](https://t.me/hktrade2024)**
 
 ---
 
-© 2025 AI Nasdaq. All rights reserved.
+## 視覺內容
+
+| Telegram 推廣 | 月度推廣 |
+| --- | --- |
+| [![Moomoo Promo](tg1.jpg)](http://j.moomoo.com/00yLZM) |
+
+---
+
+© 2025 AI Nasdaq。版權所有。
