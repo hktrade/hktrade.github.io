@@ -1,6 +1,3 @@
-To make the code suitable for a GitHub README.md file, I'll convert the HTML structure into Markdown, which is compatible with GitHub's rendering. The content will retain the same information, links, and images, but it will be formatted using Markdown syntax. I'll also ensure the styling is simplified to align with GitHub's limited styling capabilities in README files, focusing on clean organization and readability. The artifact will be a Markdown file with the same content as the previous HTML, adapted for GitHub.
-
-
 # AI Nasdaq Investment Hub
 
 Your one-stop platform for US, HK, global markets, and cryptocurrency investments.
