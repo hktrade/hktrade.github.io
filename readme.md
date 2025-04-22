@@ -12,6 +12,7 @@
 - **[X 個人主頁](https://x.com/hktrade2022)**
 - **[Threads](https://threads.net/@ai_nasdaq)**
 - **[Patreon](https://patreon.com/hktrade2022)**
+- **[OKX Webcome bonus Register in OKX | Cryptocurrency Bitcoin Registration (領取獨家的數字和NFT 獎勵。立即領取獎品，提升您的加密之旅。)](https://www.ouxyi.link/ul/6CngT5?channelId=96111722)**
 
 ---
 
@@ -19,7 +20,7 @@
 
 通過 **富途 Moomoo** 交易美股、港股、全球市場及加密貨幣，您的全方位投資平台！每月享受豐厚的開戶獎勵。
 
-- **[開設 Moomoo 賬戶](https://j.moomoo.com/00yLZM)**
+- **[Join Moomoo and enjoy a welcome bonus with 8.1% APY plus up to 30 free stocks. Boost your investment portfolio with Moomoo trading platform today! (開設 Moomoo 賬戶) ](https://j.moomoo.com/00yLZM)**
 - 香港用戶：下載富途牛牛應用程式，並在活動中心輸入兌換碼 **J3GDQQWR**。
 - **[下載富途桌面/手機版應用](https://www.futunn.com/en)**
 - 查看使用富途牛牛兌換碼的詳細視頻教程：\
@@ -41,7 +42,7 @@
 
 ---
 
-## Moomoo 全球開戶 一站式服務 開戶獎勵
+## Moomoo's transparent pricing for commission-free trading, you can trade with low fees and competitive rates on stocks, options, and ETFs. (Moomoo 全球開戶 一站式服務 開戶獎勵)
 
  [![Moomoo Promo](tg1.jpg)](http://j.moomoo.com/00yLZM) 
 
