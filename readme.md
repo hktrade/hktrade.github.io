@@ -42,8 +42,7 @@
 
 ---
 
-## Moomoo's transparent pricing for commission-free trading, <br>you can trade with low fees and competitive rates on stocks, options, and ETFs.<br> (Moomoo 全球開戶 一站式服務 開戶獎勵)
-
+## [Moomoo's transparent pricing for commission-free trading, <br>you can trade with low fees and competitive rates on stocks, options, and ETFs.<br> (Moomoo 全球開戶 一站式服務 開戶獎勵)](https://j.moomoo.com/00yLZM)
  [![Moomoo Promo](tg1.jpg)](http://j.moomoo.com/00yLZM) 
 
 ---
