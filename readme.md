@@ -12,7 +12,7 @@
 - **[X 個人主頁](https://x.com/hktrade2022)**
 - **[Threads](https://threads.net/@ai_nasdaq)**
 - **[Patreon](https://patreon.com/hktrade2022)**
-- **[OKX Webcome bonus Register in OKX | Cryptocurrency Bitcoin Registration <br>(領取獨家的數字和NFT 獎勵。立即領取獎品，提升您的加密之旅。)](https://www.ouxyi.link/ul/6CngT5?channelId=96111722)**
+- **[OKX Webcome bonus Register in OKX | Cryptocurrency Bitcoin Registration <br>領取獨家的數字和NFT 獎勵。立即領取獎品，提升您的加密之旅。](https://www.ouxyi.link/ul/6CngT5?channelId=96111722)**
 
 ---
 
