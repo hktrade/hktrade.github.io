@@ -37,7 +37,7 @@
 - **Telegram 群組**：加入 [AI Youtu 群組](https://t.me/ai_youtu)。
 - **Discord**：加入 [Discord 群組](https://discord.gg/eRmz5GjCHy)。
 - **Discord ID**：ai_nasdaq
-- **微信 ID**：MGSJZLS（添加時請備註進群）。
+- **微信 ID**：hktrade2020（添加時請備註進群）。
 
 **[加入 Telegram VIP ](https://t.me/hktrade2024)**
 
