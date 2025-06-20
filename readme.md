@@ -4,8 +4,8 @@
 您的美股、港股、全球市場及加密貨幣投資一站式平台。
 
 ---
-- **[OKX Webcome bonus Register in OKX Cryptocurrency Bitcoin Registration ](https://www.ouxyi.link/ul/6CngT5?channelId=96111722)**
-- **[歐易 領取獨家的數字和NFT 獎勵。立即領取獎品，提升您的加密之旅。](https://www.ouxyi.link/ul/6CngT5?channelId=96111722)**
+- **[OKX Webcome bonus Register in OKX Cryptocurrency Bitcoin Registration ](https://ouyizh.net/join?shortCode=Q7tTR4&channelId=96111722)**
+- **[歐易 領取獨家的數字和NFT 獎勵。立即領取獎品，提升您的加密之旅。](https://ouyizh.net/join?shortCode=Q7tTR4&channelId=96111722)**
 - 
 ## 關注我
 
