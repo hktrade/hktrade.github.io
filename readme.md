@@ -16,8 +16,6 @@
 - 📺 [YouTube 頻道](https://youtube.com/@ai_nasdaq)
 - 🎬 [YouTube 美股教學視頻專輯](https://www.youtube.com/watch?v=joI6c7cCx_k&list=PL-YrR5UR53BykxWEIURLDvIEERT0upI4-)
 - 🐦 [X 個人主頁](https://x.com/hktrade2022)
-- 🧵 [Threads](https://threads.net/@ai_nasdaq)
-- 💸 [Patreon](https://patreon.com/hktrade2022)
 
 ## 使用富途 Moomoo 投資 📈
 
