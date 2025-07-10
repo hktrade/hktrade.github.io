@@ -17,7 +17,7 @@ Your one-stop platform for US stocks, Hong Kong stocks, global markets, and cryp
 
 - 📺 [YouTube Channel](https://youtube.com/@ai_nasdaq)
 - 🎬 [YouTube US Stock Tutorial Video Playlist](https://www.youtube.com/watch?v=joI6c7cCx_k&list=PL-YrR5UR53BykxWEIURLDvIEERT0upI4-)
-- 🐦 [X Profile](https://x.com/hktrade2022)
+- 🐦 [ X  Twitter ](https://x.com/hktrade2022)
 
 ## Invest with Futu Moomoo 📈
 
