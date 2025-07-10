@@ -10,8 +10,8 @@ Your one-stop platform for US stocks, Hong Kong stocks, global markets, and cryp
 
 ## Cryptocurrency Trading 💸
 
-- 🌟 [OKX Welcome Bonus Register](https://ouyizh.net/join?shortCode=Q7tTR4&channelId=96111722)
-- 🎁 [OKX Claim Digital and NFT Rewards](https://ouyizh.net/join?shortCode=Q7tTR4&channelId=96111722)
+- 🌟 [OKX Welcome Bonus Register](https://okx.com/join/Q7tTR4)
+- 🎁 [OKX Claim Digital and NFT Rewards](https://okx.com/join/Q7tTR4)
 
 ## Follow Me 📱
 
