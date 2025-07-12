@@ -5,12 +5,11 @@ Connect with me and join exclusive groups for US stock options, futures, and Bit
 - 📢 [Telegram Group](https://t.me/ai_youtu)
 - 🎮 [Discord Group](https://discord.gg/eRmz5GjCHy)
 - 🔍 Discord ID: **ai_nasdaq**
-- 💬 [Telegram VIP 100 USDT](https://t.me/hktrade2024)
+- 💬 [Telegram VIP , Price: 100 USDT](https://t.me/hktrade2024)
 - 
 ## Follow Me 📱
 
 - 📺 [YouTube Channel](https://youtube.com/@ai_nasdaq)
-- 🎬 [YouTube US Stock Tutorial Video Playlist](https://www.youtube.com/watch?v=joI6c7cCx_k&list=PL-YrR5UR53BykxWEIURLDvIEERT0upI4-)
 - 🐦 [ X  Twitter ](https://x.com/hktrade2022)
 - 
 ## Moomoo Global Account Opening 🌍
