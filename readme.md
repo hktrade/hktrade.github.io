@@ -1,7 +1,18 @@
-# AI Nasdaq Investment Hub 🏦
+## Join My Community 🤝
 
-Your one-stop platform for US stocks, Hong Kong stocks, global markets, and cryptocurrency investments.
+Connect with me and join exclusive groups for US stock options, futures, and Bitcoin trading!
 
+- 📢 [Telegram Group](https://t.me/ai_youtu)
+- 🎮 [Discord Group](https://discord.gg/eRmz5GjCHy)
+- 🔍 Discord ID: **ai_nasdaq**
+- 💬 [Telegram VIP 100 USDT](https://t.me/hktrade2024)
+- 
+## Follow Me 📱
+
+- 📺 [YouTube Channel](https://youtube.com/@ai_nasdaq)
+- 🎬 [YouTube US Stock Tutorial Video Playlist](https://www.youtube.com/watch?v=joI6c7cCx_k&list=PL-YrR5UR53BykxWEIURLDvIEERT0upI4-)
+- 🐦 [ X  Twitter ](https://x.com/hktrade2022)
+- 
 ## Moomoo Global Account Opening 🌍
 
 - 🎉 [Moomoo Global Account Opening One-Stop Service](https://j.moomoo.com/00yLZM)
@@ -13,11 +24,6 @@ Your one-stop platform for US stocks, Hong Kong stocks, global markets, and cryp
 - 🌟 [OKX Welcome Bonus Register](https://okx.com/join/Q7tTR4)
 - 🎁 [OKX Claim Digital and NFT Rewards](https://okx.com/join/Q7tTR4)
 
-## Follow Me 📱
-
-- 📺 [YouTube Channel](https://youtube.com/@ai_nasdaq)
-- 🎬 [YouTube US Stock Tutorial Video Playlist](https://www.youtube.com/watch?v=joI6c7cCx_k&list=PL-YrR5UR53BykxWEIURLDvIEERT0upI4-)
-- 🐦 [ X  Twitter ](https://x.com/hktrade2022)
 
 ## Invest with Futu Moomoo 📈
 
@@ -27,14 +33,6 @@ Trade US stocks, Hong Kong stocks, global markets, and cryptocurrencies through 
 - 📲 [Download Futu Desktop/Mobile App](https://www.futunn.com/en)
 - 🔑 Hong Kong Users: Download the Futu Moomoo app and enter the redemption code **J3GDQQWR** in the Event Center.
 
-## Join My Community 🤝
-
-Connect with me and join exclusive groups for US stock options, futures, and Bitcoin trading!
-
-- 💬 [Telegram VIP Group](https://t.me/hktrade2024)
-- 📢 [Telegram AI Youtu Group](https://t.me/ai_youtu)
-- 🎮 [Discord Group](https://discord.gg/eRmz5GjCHy)
-- 🔍 Discord ID: **ai_nasdaq**
 
 ---
 
