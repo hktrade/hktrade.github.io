@@ -4,9 +4,6 @@ Connect with me and join exclusive groups for US stock options, futures, and Bit
 
 - 🔍 Discord VIP + :  ai_nasdaq 
 - 💬 [Telegram VIP @hktrade2024 , Price: 100 USDT](https://t.me/hktrade2024)
-- 
-## Follow Me 📱
-
 - 📺 [YouTube Channel](https://youtube.com/@ai_nasdaq)
 - 🐦 [ X ](https://x.com/hktrade2022)
 - 
