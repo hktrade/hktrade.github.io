@@ -1,6 +1,6 @@
 ## Join My Community 🤝
 
-Connect with me and join exclusive groups for US stock options, futures, and Bitcoin trading!
+Click the links and Connect with me and join exclusive groups for US stock options, futures, and Bitcoin trading!
 
 - 🔍 [Discord VIP Group @ai_nasdaq ](https://discord.gg/vSppgxAwYz)
 - 🔍 Whatsapp : +852 4613 8412
