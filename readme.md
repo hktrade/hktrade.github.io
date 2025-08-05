@@ -6,8 +6,8 @@ Connect with me and join exclusive groups for US stock options, futures, and Bit
 - 🔍 Whatsapp : +852 4613 8412
 - 💬 [Telegram VIP @hktrade2024 ](https://t.me/hktrade2024)
 - 📺 [YouTube Channel](https://youtube.com/@ai_nasdaq)
-- 🐦 [ X ](https://x.com/hktrade2022)
-- 
+- 🐦 [ X (Twitter) ](https://x.com/hktrade2022)
+
 ## Moomoo Global Account Opening 🌍
 
 - 🎉 [Moomoo Global Account Opening One-Stop Service](https://j.moomoo.com/00yLZM)
