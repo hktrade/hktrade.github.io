@@ -1,12 +1,18 @@
 # 歡迎來到 美股數據官網 🚀  
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-頻道-red?logo=youtube&logoColor=white)](https://youtube.com/@ai_nasdaq)
 [![Telegram](https://img.shields.io/badge/Telegram-VIP群組-blue?logo=telegram&logoColor=white)](https://t.me/hktrade2024)
-[![Discord](https://img.shields.io/badge/Discord-VIP群組-5865F2?logo=discord&logoColor=white)](https://discord.gg/vSppgxAwYz)
 [![Twitter](https://img.shields.io/badge/X(Twitter)-關注我-black?logo=x&logoColor=white)](https://x.com/hktrade2022)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-聯絡我-25D366?logo=whatsapp&logoColor=white)](https://wa.me/85246138412)
 
----
+## 加入我的社群 
+
+點擊連結，與我一同討論 **美股期權、期貨、比特幣交易**：
+
+- 🔍 [Discord VIP 群組]  @ai_nasdaq  
+- 🔍 Whatsapp : +852 4613 8412
+- 💬 Email : hktrade2022@gmail.com
+- 💬 [Telegram VIP](https://t.me/hktrade2024)  
+- 🐦 [X (Twitter)](https://x.com/hktrade2022)
 
 ## Moomoo 富途全球開戶 千元獎勵 
 
@@ -26,18 +32,6 @@
 - 📲 [下載富途桌面版 / 手機 App](https://www.futunn.com/en)  
 - 🔑 香港用戶：下載富途 Moomoo App 並於「活動中心」輸入兌換碼 **J3GDQQWR**  
 
----
-
-## 加入我的社群 
-
-點擊連結，與我一同討論 **美股期權、期貨、比特幣交易**：
-
-- 🔍 [Discord VIP 群組](https://discord.gg/vSppgxAwYz)  
-- 🔍 Whatsapp : +852 4613 8412
-- 💬 Email : hktrade2022@gmail.com
-- 💬 [Telegram VIP](https://t.me/hktrade2024)  
-- 📺 [YouTube 頻道](https://youtube.com/@ai_nasdaq)  
-- 🐦 [X (Twitter)](https://x.com/hktrade2022)
 
 ---
 
