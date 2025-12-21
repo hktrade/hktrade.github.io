@@ -6,24 +6,22 @@
 
 ## 加入我的社群 
 
-點擊連結，與我一同討論 **美股期權、期貨、比特幣交易**：
+點擊連結，與我一同討論 **美股期權、期貨**：
 
-- 🔍 [Discord VIP 群組]  @ai_nasdaq  
-- 🔍 Whatsapp : +852 4613 8412
+- 🔍 [Discord VIP ]  @ai_nasdaq  
+- 🔍 [Discord 美股交流群](https://discord.com/invite/7EEGtrx88)
+- 🔍 [Youtube](https://www.youtube.com/@ai_discord)
 - 💬 Email : hktrade2022@gmail.com
 - 💬 [Telegram VIP](https://t.me/hktrade2024)  
 - 🐦 [X (Twitter)](https://x.com/hktrade2022)
 
+## 美股分析神器 📊  
+
+**Seeking Alpha Premium** 👉 [7天免費試用 + 再折 $30 美元優惠](https://link.seekingalpha.com/4H6KD28/4G6SHH/)  
+
 ## Moomoo 富途全球開戶 千元獎勵 
 
 - 🎉 [Moomoo 全球帳戶一站式開戶服務 ，加入 Moomoo (8.1% 年化收益 + 30 股免費股票](https://j.moomoo.com/00yLZM)  
-
----
-
-## 股票分析工具 📊  
-
-我常用的股票分析工具：  
-**Seeking Alpha Premium** 👉 [7天免費試用 + 再折 $30 美元優惠](https://link.seekingalpha.com/4H6KD28/4G6SHH/)  
 
 ---
 
