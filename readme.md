@@ -5,7 +5,7 @@
 
 <br>
 
-<a href="https://discord.com/invite/7EEGtrx88">
+<a href="https://discord.com/invite/9swwTU27At">
   <img src="https://img.shields.io/badge/DISCORD-JOIN_VIP_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="450">
 </a>
 
