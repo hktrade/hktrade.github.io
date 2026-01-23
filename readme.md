@@ -6,25 +6,38 @@
 <br>
 
 <a href="https://discord.com/invite/9swwTU27At">
-  <img src="https://img.shields.io/badge/DISCORD-JOIN_VIP_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="450">
+  <img src="https://img.shields.io/badge/DISCORD-加入美股交流群-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="450">
 </a>
 
 <br>
 
 <a href="https://t.me/hktrade2024">
-  <img src="https://img.shields.io/badge/TELEGRAM-DAILY_ANALYSIS-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="450">
+  <img src="https://img.shields.io/badge/TELEGRAM-添加博主TG好友-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="450">
 </a>
 
 <br>
 
 <a href="https://www.youtube.com/@ai_discord">
-  <img src="https://img.shields.io/badge/YOUTUBE-WATCH_STRATEGY-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="450">
+  <img src="https://img.shields.io/badge/YOUTUBE-關注美股數據視頻頻道-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="450">
+</a>
+
+<br>
+
+<a href="https://www.patreon.com">
+  <img src="https://img.shields.io/badge/PATREON-FREE_SUBSCRIPTION-E85B46?style=for-the-badge&logo=patreon&logoColor=white" width="450">
+</a>
+
+<br>
+
+<a href="https://www.patreon.com">
+  <img src="https://img.shields.io/badge/PATREON-ONE_CLICK_DC_TG_MEMBER-E85B46?style=for-the-badge&logo=patreon&logoColor=white" width="450">
 </a>
 
 <br>
 <br>
+
 <a href="https://x.com/hktrade2022">
-  <img src="https://img.shields.io/badge/X_TWITTER-FOLLOW_UPDATES-000000?style=for-the-badge&logo=x&logoColor=white" width="450">
+  <img src="https://img.shields.io/badge/X_TWITTER-關注美股數據X-000000?style=for-the-badge&logo=x&logoColor=white" width="450">
 </a>
 
 <br>
@@ -43,13 +56,7 @@
 <br>
 
 <a href="https://link.seekingalpha.com/4H6KD28/4G6SHH/">
-  <img src="https://img.shields.io/badge/SEEKING_ALPHA-7_DAYS_FREE_TRIAL-FF8C00?style=for-the-badge&logo=target&logoColor=white" width="500">
-</a>
-
-<br>
-
-<a href="https://link.seekingalpha.com/4H6KD28/4G6SHH/">
-  <img src="https://img.shields.io/badge/EXCLUSIVE_OFFER-GET_$30_OFF_DISCOUNT-success?style=for-the-badge&logo=checkmarx&logoColor=white" width="500">
+  <img src="https://img.shields.io/badge/SEEKING_ALPHA-7天免費試用-FF8C00?style=for-the-badge&logo=target&logoColor=white" width="500">
 </a>
 
 <br><br>
@@ -62,13 +69,13 @@
 <br>
 
 <a href="https://j.moomoo.com/00yLZM">
-  <img src="https://img.shields.io/badge/MOOMOO_GLOBAL-GET_30_FREE_STOCKS-C62828?style=for-the-badge&logo=moomoo&logoColor=white" width="550">
+  <img src="https://img.shields.io/badge/MOOMOO迎新大獎-贈送30只美股-C62828?style=for-the-badge&logo=moomoo&logoColor=white" width="550">
 </a>
 
 <br>
 
 <a href="https://j.moomoo.com/00yLZM">
-  <img src="https://img.shields.io/badge/CASH_PLUS-8.1%25_ANNUAL_YIELD-E91E63?style=for-the-badge&logo=chart-line&logoColor=white" width="550">
+  <img src="https://img.shields.io/badge/年化收益率-8.1%25-E91E63?style=for-the-badge&logo=chart-line&logoColor=white" width="550">
 </a>
 
 <br><br>
@@ -93,7 +100,7 @@
 ---
 
 <a href="mailto:hktrade2022@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-BUSINESS_INQUIRY-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="450">
+  <img src="https://img.shields.io/badge/GMAIL-聯繫博主-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="450">
 </a>
 
 <br>
