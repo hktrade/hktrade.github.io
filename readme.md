@@ -39,7 +39,7 @@
 
 <br><br><br>
 
-[![Watch the video](https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/thumbnail.jpg)](https:/hktrade.github.io/ending_20s.mp4)
+[![Watch the video](https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/thumbnail.jpg)](https:/ai-youtu.com/ending_20s.mp4)
 <br><br><br>
 
 ## 🎁 Moomoo 全球券商開戶重磅福利
