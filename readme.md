@@ -43,10 +43,8 @@
   controls
   playsinline
   preload="metadata"
-  style="width:100%; max-width:800px; border-radius:14px;"
->
-  <source src="https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/ending_20s.mp4
-" type="video/mp4">
+  style="width:100%; max-width:800px; border-radius:14px;">
+  <source src="https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/ending_20s.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
