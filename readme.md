@@ -3,16 +3,8 @@
 # 🚀 美股交流群 @ 美股數據頻道
 ### 數據驅動 · 邏輯交易 · 風險控管
 
-<br><br><br>
-
-<a href="https://discord.com/invite/9swwTU27At">
-  <img src="https://img.shields.io/badge/DISCORD-加入美股交流群-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="500">
-</a>
-
-<br><br><br>
-
 <a href="https://t.me/hktrade2024">
-  <img src="https://img.shields.io/badge/TELEGRAM-添加博主TG好友-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="500">
+  <img src="https://img.shields.io/badge/TELEGRAM-加我諮詢VIP-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="500">
 </a>
 
 <br><br><br>
@@ -23,13 +15,13 @@
 
 <br><br><br>
 
-<a href="https://www.patreon.com">
+<a href="https://www.patreon.com/c/hktrade2022">
   <img src="https://img.shields.io/badge/PATREON-免費訂閱美股每日推薦-E85B46?style=for-the-badge&logo=patreon&logoColor=white" width="500">
 </a>
 
 <br><br><br>
 
-<a href="https://www.patreon.com">
+<a href="https://www.patreon.com/c/hktrade2022">
   <img src="https://img.shields.io/badge/PATREON-一鍵購買_DC_TG_會員-E85B46?style=for-the-badge&logo=patreon&logoColor=white" width="500">
 </a>
 
@@ -42,25 +34,27 @@
 <br><br><br>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/DISCORD-添加群主-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="500">
+  <img src="https://img.shields.io/badge/DISCORD-添加群主@ai_nasdaq付費進群-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="500">
 </a>
 
 <br><br><br>
 
 ---
-
-## 📈 Seeking Alpha 全球最大美股社區 7天免費試用再折$30美元
-**「專注深度數據，遠離市場噪音」**
+<video 
+  src="ending_20s.mp4"
+  controls
+  playsinline
+  preload="metadata"
+  style="
+    width: 100%;
+    max-width: 800px;
+    border-radius: 14px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+  ">
+  Your browser does not support the video tag.
+</video>
 
 <br><br><br>
-
-<a href="https://link.seekingalpha.com/4H6KD28/4G6SHH/">
-  <img src="https://img.shields.io/badge/SEEKING_ALPHA-7天免費試用-FF8C00?style=for-the-badge&logo=target&logoColor=white" width="500">
-</a>
-
-<br><br><br>
-
----
 
 ## 🎁 Moomoo 全球券商開戶重磅福利
 **一站式投資：美股 / 期權 / 期貨 / 加密貨幣**
@@ -92,6 +86,19 @@
 
 <a href="https://www.futunn.com/en">
   <img src="https://img.shields.io/badge/DOWNLOAD_FUTU_APP-333333?style=for-the-badge&logo=apple&logoColor=white" width="500">
+</a>
+
+<br><br><br>
+
+---
+
+## 📈 Seeking Alpha 全球最大美股社區 7天免費試用再折$30美元
+**「專注深度數據，遠離市場噪音」**
+
+<br><br><br>
+
+<a href="https://link.seekingalpha.com/4H6KD28/4G6SHH/">
+  <img src="https://img.shields.io/badge/SEEKING_ALPHA-7天免費試用-FF8C00?style=for-the-badge&logo=target&logoColor=white" width="500">
 </a>
 
 <br><br><br>
