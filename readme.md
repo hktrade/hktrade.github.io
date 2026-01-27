@@ -39,7 +39,7 @@
 
 <br><br><br>
 
-<video controls playsinline style="width:100%; max-width:800px;">
+<video controls>
   <source src="https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/ending_20s.mp4" type="video/mp4">
 </video>
 
