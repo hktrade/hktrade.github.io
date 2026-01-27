@@ -39,9 +39,7 @@
 
 <br><br><br>
 
-<video controls>
-  <source src="https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/ending_20s.mp4" type="video/mp4">
-</video>
+[[video title](https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/ending_20s.mp4)]>
 
 <br><br><br>
 
