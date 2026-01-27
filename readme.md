@@ -9,8 +9,8 @@
 
 <br><br><br>
 
-<a href="https://www.youtube.com/@ai_discord">
-  <img src="https://img.shields.io/badge/YOUTUBE-關注美股數據視頻頻道-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="500">
+<a href="#">
+  <img src="https://img.shields.io/badge/DISCORD-添加群主@ai_nasdaq付費進群-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="500">
 </a>
 
 <br><br><br>
@@ -27,30 +27,26 @@
 
 <br><br><br>
 
+<a href="https://www.youtube.com/@ai_discord">
+  <img src="https://img.shields.io/badge/YOUTUBE-關注美股數據視頻頻道-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="500">
+</a>
+
+<br><br><br>
+
 <a href="https://x.com/hktrade2022">
   <img src="https://img.shields.io/badge/X_TWITTER-關注美股數據X-000000?style=for-the-badge&logo=x&logoColor=white" width="500">
 </a>
 
 <br><br><br>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/DISCORD-添加群主@ai_nasdaq付費進群-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="500">
-</a>
-
-<br><br><br>
-
----
-<video 
-  src="ending_20s.mp4"
+<video
   controls
   playsinline
   preload="metadata"
-  style="
-    width: 100%;
-    max-width: 800px;
-    border-radius: 14px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.25);
-  ">
+  style="width:100%; max-width:800px; border-radius:14px;"
+>
+  <source src="https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/ending_20s.mp4
+" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
