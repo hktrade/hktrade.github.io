@@ -39,13 +39,8 @@
 
 <br><br><br>
 
-<video
-  controls
-  playsinline
-  preload="metadata"
-  style="width:100%; max-width:800px; border-radius:14px;">
+<video controls playsinline style="width:100%; max-width:800px;">
   <source src="https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/ending_20s.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 <br><br><br>
