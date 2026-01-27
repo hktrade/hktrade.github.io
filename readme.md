@@ -3,13 +3,13 @@
  🚀 美股VIP群 @ 美股數據頻道  數據驅動 · 風險控管
 
 <a href="https://t.me/hktrade2024">
-  <img src="https://img.shields.io/badge/TELEGRAM-加我諮詢VIP-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="500">
+  <img src="https://img.shields.io/badge/TELEGRAM-加我付費進群-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="500">
 </a>
 
 <br><br><br>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/DISCORD-添加群主@ai_nasdaq付費進群-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="500">
+  <img src="https://img.shields.io/badge/DISCORD-加我@ai_nasdaq付費進群-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="500">
 </a>
 
 <br><br><br>
