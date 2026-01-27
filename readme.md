@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🚀 美股交流群 @ 美股數據頻道
-### 數據驅動 · 邏輯交易 · 風險控管
+ 🚀 美股交流群 @ 美股數據頻道
+ 數據驅動 · 邏輯交易 · 風險控管
 
 <a href="https://t.me/hktrade2024">
   <img src="https://img.shields.io/badge/TELEGRAM-加我諮詢VIP-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="500">
@@ -39,11 +39,8 @@
 
 <br><br><br>
 
-[![Watch the video](https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/thumbnail.jpg)](https://youtu.be/FdRvwHH1e_0)
-<br><br><br>
-
-## 🎁 Moomoo 全球券商開戶重磅福利
-**一站式投資：美股 / 期權 / 期貨 / 加密貨幣**
+ 🎁 Moomoo 全球券商開戶重磅福利
+一站式投資：美股 / 期權 / 期貨 / 加密貨幣
 
 <br><br><br>
 
@@ -59,8 +56,8 @@
 
 <br><br><br>
 
-### 🇭🇰 香港用戶專區
-**於香港富途 「活動中心」輸入兌換碼**
+ 🇭🇰 香港用戶專區
+於香港富途 「活動中心」輸入兌換碼
 
 <br><br><br>
 
@@ -78,8 +75,8 @@
 
 ---
 
-## 📈 Seeking Alpha 全球最大美股社區 7天免費試用再折$30美元
-**「專注深度數據，遠離市場噪音」**
+ 📈 Seeking Alpha 全球最大美股社區 7天免費試用再折$30美元
+「專注深度數據，遠離市場噪音」
 
 <br><br><br>
 
@@ -97,9 +94,12 @@
 
 <br><br>
 
-### 💡 Data. Discipline. Direction.
+ 💡 Data. Discipline. Direction.
 *Building clarity in noisy markets.*
 
 © 2025 **AI Nasdaq**. All Rights Reserved.
 
 </div>
+
+[![Watch the video](https://raw.githubusercontent.com/hktrade/hktrade.github.io/main/thumbnail.jpg)](https://youtu.be/FdRvwHH1e_0)
+
