@@ -1,6 +1,6 @@
 <div align="center">
 
- 🚀 美股VIP群 @ 美股數據頻道  數據驅動 · 風險控管 TG 加h @ktrade2024  DC加 @ai_nasdaq 付費進群<br><br><br>
+ 🚀 美股VIP群 @ 美股數據頻道  數據驅動 · 風險控管 TG 加 @hktrade2024  DC 加 @ai_nasdaq 付費進群<br><br><br>
 
 <a href="https://t.me/hktrade2024">
   <img src="https://img.shields.io/badge/TELEGRAM-加我付費進群-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="500">
