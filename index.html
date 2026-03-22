@@ -24,7 +24,6 @@ body {
 
 h1 { font-size: 32px; }
 
-/* PLANS */
 .plans {
   display: flex;
   flex-wrap: wrap;
@@ -37,9 +36,11 @@ h1 { font-size: 32px; }
   border-radius: 12px;
   padding: 25px;
   width: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
-/* 放大 包月 / 終身 */
 .badge {
   background: #00ffcc;
   color: #000;
@@ -47,7 +48,6 @@ h1 { font-size: 32px; }
   border-radius: 8px;
   font-size: 16px;
   font-weight: bold;
-  display: inline-block;
   margin-bottom: 10px;
 }
 
@@ -72,7 +72,6 @@ h1 { font-size: 32px; }
   text-decoration: none;
   color: white;
   font-weight: bold;
-  font-size: 14px;
 }
 
 .telegram { background: #2CA5E0; }
@@ -86,7 +85,6 @@ h1 { font-size: 32px; }
   background: #000;
   border-radius: 6px;
   word-break: break-all;
-  font-size: 13px;
 }
 
 /* BLOCK */
@@ -95,8 +93,17 @@ h1 { font-size: 32px; }
   background: #111827;
   padding: 25px;
   border-radius: 12px;
-  text-align: left;
+  text-align: center;
   line-height: 1.8;
+}
+
+.block ul {
+  text-align: left;
+}
+
+/* QR */
+.qr {
+  margin-top: 40px;
 }
 
 .footer {
@@ -123,39 +130,46 @@ function copyText() {
 
 <div class="plans">
 
-<!-- 包月 -->
+<!-- 左：基礎會員 -->
 <div class="plan">
-  <div class="badge">包月</div>
-  <h2>基礎會員</h2>
-  <div class="price">$29/月</div>
+  <div>
+    <div class="badge">包月</div>
+    <h2>基礎會員</h2>
+    <div class="price">$29/月</div>
 
-  <div class="features">
-    ✔ 每日盤前分析<br>
-    ✔ 熱門股票方向<br>
-    ✔ 基本交易策略<br>
-    ✔ 專屬群組
+    <div class="features">
+      ✔ 盤前盤中分析<br>
+      ✔ 熱門股票趨勢<br>
+      ✔ 正股期權策略<br>
+      ✔ 專屬TG群組
+    </div>
   </div>
 
-  <!-- Patreon包月購買 -->
   <a href="https://www.patreon.com/checkout/hktrade2022?rid=24676913" class="btn patreon">
     Patreon包月購買
   </a>
+</div>
 
-  <!-- Telegram（移到这里） -->
+<!-- 右：進階會員 -->
+<div class="plan">
+  <div>
+    <div class="badge">🔥終身</div>
+    <h2>進階會員</h2>
+    <div class="price">$99</div>
+
+    <div class="features">
+      ✔ SPY SPX 期權策略<br>
+      ✔ 專屬TG群組<br>
+      ✔ 高勝率交易策略<br>
+      ✔ 一對一解答
+    </div>
+  </div>
+
+  <!-- 所有操作按钮集中到这里 -->
   <a href="https://t.me/hktrade2024" class="btn telegram">
     加入Telegram
   </a>
 
-  <!-- 新增社交按钮 -->
-  <a href="https://x.com/hktrade2022" class="btn social">
-    訂閱 X
-  </a>
-
-  <a href="https://youtube.com/@tg_discord" class="btn social">
-    訂閱 YouTube
-  </a>
-
-  <!-- 一次性 -->
   <a href="https://www.patreon.com/checkout/hktrade2022?pvid=3687763" class="btn patreon">
     Patreon一次性購買
   </a>
@@ -170,33 +184,12 @@ function copyText() {
 
 </div>
 
-<!-- 終身 -->
-<div class="plan">
-  <div class="badge">🔥終身</div>
-  <h2>進階會員</h2>
-  <div class="price">$99</div>
-
-  <div class="features">
-    ✔ 熱門交易策略<br>
-    ✔ 專屬群組<br>
-    ✔ 高勝率交易機會<br>
-    ✔ 一對一策略
-  </div>
-
 </div>
 
-</div>
-
-<!-- QR -->
-<div style="margin-top:40px;">
-  <h3>📱 掃碼加入</h3>
-  <img src="img/22.png" width="180">
-</div>
-
-<!-- BLOCK（保留福利） -->
+<!-- 會員福利 -->
 <div class="block">
 
-<h3>會員群福利：</h3>
+<h3>會員群福利</h3>
 
 <ul>
 <li>股票討論（正股，ETF，選擇權）以及即時交易分享</li>
@@ -208,6 +201,20 @@ function copyText() {
 <li>不定期課程教學（技術分析/選擇權）</li>
 </ul>
 
+</div>
+
+<!-- 掃碼 + 社交 -->
+<div class="qr">
+  <h3>📱 掃碼加入</h3>
+  <img src="img/22.png" width="180">
+
+  <a href="https://x.com/hktrade2022" class="btn social">
+    訂閱 X
+  </a>
+
+  <a href="https://youtube.com/@tg_discord" class="btn social">
+    訂閱 YouTube
+  </a>
 </div>
 
 <!-- FOOTER -->
