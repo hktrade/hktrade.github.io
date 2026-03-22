@@ -3,12 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>美股VIP會員</title>
+<title>美股數據頻道VIP會員</title>
 
 <style>
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
 body {
   margin: 0;
@@ -25,7 +23,7 @@ body {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 34px;
   margin-bottom: 10px;
 }
 
@@ -34,6 +32,7 @@ h1 {
   margin-bottom: 30px;
 }
 
+/* PLAN BOXES */
 .plans {
   display: flex;
   flex-wrap: wrap;
@@ -64,7 +63,7 @@ h1 {
 }
 
 .price {
-  font-size: 32px;
+  font-size: 30px;
   margin: 15px 0;
   color: #00ffcc;
 }
@@ -89,6 +88,7 @@ h1 {
 .telegram { background: #2CA5E0; }
 .patreon { background: #E85B46; }
 
+/* QR */
 .qr {
   margin-top: 40px;
 }
@@ -97,16 +97,32 @@ h1 {
   max-width: 180px;
 }
 
+/* DISCLAIMER BOX */
+.disclaimer {
+  margin-top: 60px;
+  background: #111827;
+  padding: 25px;
+  border-radius: 12px;
+  text-align: left;
+  line-height: 1.8;
+  font-size: 14px;
+}
+
+.disclaimer h3 {
+  margin-top: 0;
+  color: #00ffcc;
+}
+
 .footer {
-  margin-top: 50px;
+  margin-top: 40px;
   font-size: 13px;
   color: #666;
 }
 
 /* MOBILE */
 @media (max-width: 768px) {
-  h1 { font-size: 28px; }
   .plan { width: 100%; }
+  h1 { font-size: 26px; }
 }
 </style>
 </head>
@@ -115,58 +131,71 @@ h1 {
 
 <div class="container">
 
-  <h1>🚀 美股VIP會員</h1>
+  <h1>🚀 美股數據頻道VIP會員</h1>
   <div class="subtitle">數據驅動 · 風險控管</div>
 
   <div class="plans">
 
+    <!-- 包月 -->
     <div class="plan">
-      <div class="badge">入門</div>
+      <div class="badge">包月</div>
       <h2>基礎會員</h2>
       <div class="price">$29/月</div>
+
       <div class="features">
         ✔ 每日盤前分析<br>
         ✔ 熱門股票方向<br>
         ✔ 基本交易策略
       </div>
+
       <a href="https://t.me/hktrade2024" class="btn telegram">
         加入Telegram
       </a>
     </div>
 
+    <!-- 終身 -->
     <div class="plan">
-      <div class="badge">🔥熱門</div>
+      <div class="badge">終身</div>
       <h2>進階會員</h2>
-      <div class="price">$99/月</div>
+      <div class="price">$99</div>
+
       <div class="features">
         ✔ VIP即時策略<br>
         ✔ AI數據分析<br>
-        ✔ 高勝率機會
+        ✔ 熱門交易策略<br>
+        ✔ 專屬群組<br>
+        ✔ 高勝率交易機會<br>
+        ✔ 一對一策略
       </div>
+
       <a href="https://www.patreon.com/c/hktrade2022" class="btn patreon">
         立即購買
       </a>
     </div>
 
-    <div class="plan">
-      <div class="badge">PRO</div>
-      <h2>高級會員</h2>
-      <div class="price">$199/月</div>
-      <div class="features">
-        ✔ 專屬群組<br>
-        ✔ 一對一策略<br>
-        ✔ 高端信息
-      </div>
-      <a href="https://t.me/hktrade2024" class="btn telegram">
-        聯繫加入
-      </a>
-    </div>
-
   </div>
 
+  <!-- QR -->
   <div class="qr">
     <h3>📱 掃碼加入</h3>
-    <img src="qr.png" alt="QR Code">
+    <img src="img/22.png" alt="QR Code">
+  </div>
+
+  <!-- DISCLAIMER / 福利 -->
+  <div class="disclaimer">
+    <h3>📢 免責聲明</h3>
+    本社區僅用來分享投資經驗，不作為任何個人、機構、法律、稅務或會計顧問等投資建議！<br><br>
+
+    投資有風險，交易需謹慎。歡迎想要學習進步的小伙伴加入我們的大家庭，只求無腦躺賺、快速暴富請三思而後行！<br><br>
+
+    <strong>會員群福利：</strong><br>
+    1. 股票討論（正股、ETF、選擇權）以及即時交易分享<br>
+    2. 免費股票資料查詢（選擇權異動、暗池異動、Algoflow等）<br>
+    3. 經驗分享專區，學習交易邏輯與策略<br>
+    4. 盤中不定時語音分享與答疑<br>
+    5. 技術圖分析，輔助最佳進場點<br>
+    6. 大單異動與突發新聞自動提示<br>
+    7. 不定期課程（技術分析、指標、選擇權教學）
   </div>
 
   <div class="footer">
