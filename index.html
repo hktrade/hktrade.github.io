@@ -10,7 +10,7 @@
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+  font-family: Arial;
   background: #0b0f1a;
   color: #fff;
 }
@@ -22,17 +22,8 @@ body {
   text-align: center;
 }
 
-h1 {
-  font-size: 34px;
-  margin-bottom: 10px;
-}
+h1 { font-size: 32px; }
 
-.subtitle {
-  color: #aaa;
-  margin-bottom: 30px;
-}
-
-/* PLAN BOXES */
 .plans {
   display: flex;
   flex-wrap: wrap;
@@ -45,25 +36,18 @@ h1 {
   border-radius: 12px;
   padding: 25px;
   width: 300px;
-  transition: 0.2s;
-}
-
-.plan:hover {
-  transform: translateY(-5px);
 }
 
 .badge {
   background: #00ffcc;
   color: #000;
-  font-size: 12px;
   padding: 5px 10px;
   border-radius: 6px;
-  display: inline-block;
-  margin-bottom: 10px;
+  font-size: 12px;
 }
 
 .price {
-  font-size: 30px;
+  font-size: 28px;
   margin: 15px 0;
   color: #00ffcc;
 }
@@ -72,136 +56,164 @@ h1 {
   text-align: left;
   line-height: 1.8;
   margin-bottom: 20px;
-  font-size: 14px;
 }
 
 .btn {
-  display: inline-block;
-  width: 100%;
+  display: block;
+  margin-top: 10px;
   padding: 12px;
   border-radius: 6px;
   text-decoration: none;
-  font-weight: bold;
   color: white;
+  font-weight: bold;
 }
 
 .telegram { background: #2CA5E0; }
 .patreon { background: #E85B46; }
+.copybtn { background: #16a34a; }
 
-/* QR */
-.qr {
-  margin-top: 40px;
+.copy-box {
+  margin-top: 10px;
+  padding: 10px;
+  background: #000;
+  border-radius: 6px;
+  word-break: break-all;
+  font-size: 13px;
 }
 
-.qr img {
-  max-width: 180px;
-}
-
-/* DISCLAIMER BOX */
-.disclaimer {
-  margin-top: 60px;
+/* DISCLAIMER BLOCK */
+.block {
+  margin-top: 50px;
   background: #111827;
   padding: 25px;
   border-radius: 12px;
   text-align: left;
   line-height: 1.8;
-  font-size: 14px;
-}
-
-.disclaimer h3 {
-  margin-top: 0;
-  color: #00ffcc;
 }
 
 .footer {
   margin-top: 40px;
+  color: #fff;
   font-size: 13px;
-  color: #666;
-}
-
-/* MOBILE */
-@media (max-width: 768px) {
-  .plan { width: 100%; }
-  h1 { font-size: 26px; }
 }
 </style>
+
+<script>
+function copyText() {
+  navigator.clipboard.writeText("TJNuae782CSJJgr8A7pSRztPWpdJG2poXJ");
+  alert("地址已複製");
+}
+</script>
+
 </head>
 
 <body>
 
 <div class="container">
 
-  <h1>🚀 美股數據頻道VIP會員</h1>
-  <div class="subtitle">數據驅動 · 風險控管</div>
+<h1>🚀 美股數據頻道VIP會員</h1>
 
-  <div class="plans">
+<div class="plans">
 
-    <!-- 包月 -->
-    <div class="plan">
-      <div class="badge">包月</div>
-      <h2>基礎會員</h2>
-      <div class="price">$29/月</div>
+<!-- 包月 -->
+<div class="plan">
+  <div class="badge">包月</div>
+  <h2>基礎會員</h2>
+  <div class="price">$29/月</div>
 
-      <div class="features">
-        ✔ 每日盤前分析<br>
-        ✔ 熱門股票方向<br>
-        ✔ 基本交易策略
-      </div>
-
-      <a href="https://t.me/hktrade2024" class="btn telegram">
-        加入Telegram
-      </a>
-    </div>
-
-    <!-- 終身 -->
-    <div class="plan">
-      <div class="badge">終身</div>
-      <h2>進階會員</h2>
-      <div class="price">$99</div>
-
-      <div class="features">
-        ✔ VIP即時策略<br>
-        ✔ AI數據分析<br>
-        ✔ 熱門交易策略<br>
-        ✔ 專屬群組<br>
-        ✔ 高勝率交易機會<br>
-        ✔ 一對一策略
-      </div>
-
-      <a href="https://www.patreon.com/c/hktrade2022" class="btn patreon">
-        立即購買
-      </a>
-    </div>
-
+  <div class="features">
+    ✔ 每日盤前分析<br>
+    ✔ 熱門股票方向<br>
+    ✔ 基本交易策略<br>
+    ✔ 專屬群組
   </div>
 
-  <!-- QR -->
-  <div class="qr">
-    <h3>📱 掃碼加入</h3>
-    <img src="img/22.png" alt="QR Code">
+  <a href="https://t.me/hktrade2024" class="btn telegram">
+    加入Telegram
+  </a>
+
+  <a href="https://www.patreon.com/checkout/hktrade2022?rid=24676913" class="btn patreon">
+    立即包月購買
+  </a>
+
+  <a href="https://www.patreon.com/checkout/hktrade2022?pvid=3687763" class="btn patreon">
+    Patreon一次性購買
+  </a>
+
+  <button onclick="copyText()" class="btn copybtn">
+    TRC20 一次性購買（點擊複製地址）
+  </button>
+
+  <div class="copy-box">
+    TJNuae782CSJJgr8A7pSRztPWpdJG2poXJ
   </div>
 
-  <!-- DISCLAIMER / 福利 -->
-  <div class="disclaimer">
-    <h3>📢 免責聲明</h3>
-    本社區僅用來分享投資經驗，不作為任何個人、機構、法律、稅務或會計顧問等投資建議！<br><br>
+</div>
 
-    投資有風險，交易需謹慎。歡迎想要學習進步的小伙伴加入我們的大家庭，只求無腦躺賺、快速暴富請三思而後行！<br><br>
+<!-- 終身 -->
+<div class="plan">
+  <div class="badge">🔥終身</div>
+  <h2>進階會員</h2>
+  <div class="price">$99</div>
 
-    <strong>會員群福利：</strong><br>
-    1. 股票討論（正股、ETF、選擇權）以及即時交易分享<br>
-    2. 免費股票資料查詢（選擇權異動、暗池異動、Algoflow等）<br>
-    3. 經驗分享專區，學習交易邏輯與策略<br>
-    4. 盤中不定時語音分享與答疑<br>
-    5. 技術圖分析，輔助最佳進場點<br>
-    6. 大單異動與突發新聞自動提示<br>
-    7. 不定期課程（技術分析、指標、選擇權教學）
+  <div class="features">
+    ✔ 熱門交易策略<br>
+    ✔ 專屬群組<br>
+    ✔ 高勝率交易機會<br>
+    ✔ 一對一策略
   </div>
 
-  <div class="footer">
-    TG: @hktrade2024 ｜ DC: @snowfall45<br><br>
-    © 2026 美股數據頻道
-  </div>
+  <a href="https://www.patreon.com/c/hktrade2022" class="btn patreon">
+    立即購買
+  </a>
+
+</div>
+
+</div>
+
+<!-- QR -->
+<div style="margin-top:40px;">
+  <h3>📱 掃碼加入</h3>
+  <img src="img/22.png" width="180">
+</div>
+
+<!-- 免责声明 BLOCK -->
+<div class="block">
+
+<p>
+免責聲明:本社區僅用來分享投資經驗,不作為任何個人,機構,法律,稅務或會計顧問等投資建議!
+</p>
+
+<p>
+投資有風險,交易需謹慎.歡迎想要學習進步的小伙伴加入我們的大家庭,
+只求無腦躺賺,快速暴富請三思而後行!
+</p>
+
+<h3>會員群福利：</h3>
+
+<ul>
+<li>股票討論（正股，ETF，選擇權）以及即時交易分享</li>
+<li>免費股票資料查詢（選擇權異動、暗池異動等）</li>
+<li>經驗分享與交易邏輯學習</li>
+<li>盤中語音分享與答疑</li>
+<li>技術圖分析與入場點位</li>
+<li>大單異動與重要新聞提示</li>
+<li>不定期課程教學（技術分析/選擇權）</li>
+</ul>
+
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+TG: @hktrade2024 ｜ DC: @snowfall45<br><br>
+
+📧 <a href="mailto:appcash7694@gmail.com" style="color:white;">
+appcash7694@gmail.com
+</a>
+
+<br><br>
+© 2026 美股數據頻道
+</div>
 
 </div>
 
