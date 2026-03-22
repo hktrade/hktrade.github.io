@@ -1,119 +1,168 @@
 <!DOCTYPE html>
 <html lang="zh">
 <head>
-  <meta charset="UTF-8">
-  <title>美股數據頻道 VIP</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VIP會員方案</title>
 
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #0b0f1a;
-      color: white;
-      text-align: center;
-    }
+<style>
+body {
+  margin:0;
+  font-family: Arial;
+  background:#0b0f1a;
+  color:white;
+  text-align:center;
+}
 
-    .container {
-      max-width: 900px;
-      margin: auto;
-      padding: 60px 20px;
-    }
+.container {
+  max-width:1100px;
+  margin:auto;
+  padding:40px 20px;
+}
 
-    h1 {
-      font-size: 36px;
-      margin-bottom: 10px;
-    }
+h1 {
+  font-size:42px;
+  margin-bottom:10px;
+}
 
-    .subtitle {
-      color: #aaa;
-      margin-bottom: 40px;
-    }
+.subtitle {
+  color:#aaa;
+  margin-bottom:40px;
+}
 
-    .tagline {
-      font-size: 14px;
-      color: #888;
-      margin-bottom: 50px;
-    }
+.plans {
+  display:flex;
+  gap:20px;
+  flex-wrap:wrap;
+  justify-content:center;
+}
 
-    .buttons {
-      display: flex;
-      flex-direction: column;
-      gap: 20px;
-      align-items: center;
-    }
+.plan {
+  background:#111827;
+  padding:30px;
+  border-radius:12px;
+  width:300px;
+  transition:0.3s;
+}
 
-    .btn {
-      display: inline-block;
-      width: 320px;
-      padding: 16px;
-      border-radius: 8px;
-      text-decoration: none;
-      font-weight: bold;
-      transition: 0.2s;
-    }
+.plan:hover {
+  transform:translateY(-5px);
+}
 
-    .btn:hover {
-      transform: scale(1.05);
-      opacity: 0.9;
-    }
+.price {
+  font-size:36px;
+  margin:20px 0;
+  color:#00ffcc;
+}
 
-    .telegram { background: #2CA5E0; }
-    .patreon { background: #E85B46; }
-    .youtube { background: #FF0000; }
-    .twitter { background: #000000; }
+.features {
+  text-align:left;
+  margin:20px 0;
+  line-height:1.8;
+}
 
-    .footer {
-      margin-top: 60px;
-      font-size: 13px;
-      color: #666;
-    }
+.btn {
+  display:inline-block;
+  padding:12px 20px;
+  border-radius:6px;
+  text-decoration:none;
+  color:white;
+  font-weight:bold;
+}
 
-    .highlight {
-      color: #00ffcc;
-      font-weight: bold;
-    }
+.telegram { background:#2CA5E0; }
+.patreon { background:#E85B46; }
 
-  </style>
+.badge {
+  background:#00ffcc;
+  color:black;
+  padding:5px 10px;
+  border-radius:6px;
+  font-size:12px;
+}
+
+.qr {
+  margin-top:40px;
+}
+
+.footer {
+  margin-top:60px;
+  color:#666;
+  font-size:13px;
+}
+</style>
+
 </head>
 
 <body>
 
-  <div class="container">
+<div class="container">
 
-    <h1>🚀 美股VIP群</h1>
-    <div class="subtitle">美股數據頻道</div>
+<h1>🚀 美股VIP會員</h1>
+<div class="subtitle">數據驅動 · 風險控管</div>
 
-    <div class="tagline">
-      數據驅動 · 風險控管<br>
-      Data. Discipline. Direction.
+<div class="plans">
+
+  <div class="plan">
+    <div class="badge">入門</div>
+    <h2>基礎會員</h2>
+    <div class="price">$29/月</div>
+
+    <div class="features">
+      ✔ 每日盤前分析<br>
+      ✔ 熱門股票方向<br>
+      ✔ 基本交易策略
     </div>
 
-    <div class="buttons">
-
-      <a href="https://t.me/hktrade2024" class="btn telegram">
-        📩 Telegram｜加入付費群
-      </a>
-
-      <a href="https://www.patreon.com/c/hktrade2022" class="btn patreon">
-        💰 Patreon｜一鍵購買會員
-      </a>
-
-      <a href="https://www.youtube.com/@tg_discord" class="btn youtube">
-        ▶ YouTube｜關注頻道
-      </a>
-
-      <a href="https://x.com/hktrade2022" class="btn twitter">
-        🐦 X｜關注市場觀點
-      </a>
-
-    </div>
-
-    <div class="footer">
-      TG: @hktrade2024 ｜ DC: @snowfall45<br><br>
-      © 2025 tg_discord. All Rights Reserved.
-    </div>
-
+    <a href="https://t.me/hktrade2024" class="btn telegram">
+      加入Telegram
+    </a>
   </div>
+
+  <div class="plan">
+    <div class="badge">🔥熱門</div>
+    <h2>進階會員</h2>
+    <div class="price">$99/月</div>
+
+    <div class="features">
+      ✔ VIP即時策略<br>
+      ✔ AI數據分析<br>
+      ✔ 高勝率交易機會
+    </div>
+
+    <a href="https://www.patreon.com/c/hktrade2022" class="btn patreon">
+      立即購買
+    </a>
+  </div>
+
+  <div class="plan">
+    <div class="badge">PRO</div>
+    <h2>高級會員</h2>
+    <div class="price">$199/月</div>
+
+    <div class="features">
+      ✔ 專屬群組<br>
+      ✔ 一對一策略<br>
+      ✔ 高端內部信息
+    </div>
+
+    <a href="https://t.me/hktrade2024" class="btn telegram">
+      聯繫加入
+    </a>
+  </div>
+
+</div>
+
+<div class="qr">
+  <h3>📱 掃碼加入</h3>
+  <img src="your-qr.png" width="200">
+</div>
+
+<div class="footer">
+© 2026 美股數據頻道
+</div>
+
+</div>
 
 </body>
 </html>
