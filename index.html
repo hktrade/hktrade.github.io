@@ -29,6 +29,7 @@ h1 { font-size: 32px; }
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
+  /* 預設 align-items: stretch，會讓左右卡片等高 */
 }
 
 .plan {
@@ -38,7 +39,23 @@ h1 { font-size: 32px; }
   width: 320px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+}
+
+/* 將按鈕區域單獨包裹，方便控制高度 */
+.plan-bottom {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1; /* 佔滿剩餘高度 */
+  gap: 12px;
+  margin-top: 20px;
+  justify-content: flex-end; /* 右側內容靠下對齊 */
+}
+
+.left-bottom .btn {
+  flex-grow: 1; /* 讓左側的兩個 Patreon 按鈕自動拉伸填滿高度 */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .badge {
@@ -49,6 +66,7 @@ h1 { font-size: 32px; }
   font-size: 16px;
   font-weight: bold;
   margin-bottom: 10px;
+  display: inline-block;
 }
 
 .price {
@@ -65,21 +83,22 @@ h1 { font-size: 32px; }
 
 .btn {
   display: block;
-  margin-top: 10px;
   padding: 13px;
   border-radius: 6px;
   text-decoration: none;
   color: white;
   font-weight: bold;
+  cursor: pointer;
+  border: none;
+  font-size: 15px;
 }
 
 .telegram { background: #2CA5E0; }
 .patreon { background: #E85B46; }
 .copybtn { background: #16a34a; }
-.social { background: #333; }
+.social { background: #333; margin-top: 10px; }
 
 .copy-box {
-  margin-top: 10px;
   padding: 10px;
   background: #000;
   border-radius: 6px;
@@ -96,7 +115,10 @@ h1 { font-size: 32px; }
 }
 
 .block ul {
-  text-align: left;
+  text-align: center; /* 讓列表文字置中 */
+  list-style-position: inside; /* 讓前面的圓點也一起跟著置中 */
+  padding: 0;
+  margin: 10px 0 0 0;
 }
 
 .qr {
@@ -106,7 +128,8 @@ h1 { font-size: 32px; }
 .footer {
   margin-top: 40px;
   color: #fff;
-  font-size: 13px;
+  font-size: 16px; /* 字體加大 (原本 13px) */
+  line-height: 1.8; /* 增加行距讓多行文字更易讀 */
 }
 </style>
 
@@ -129,7 +152,7 @@ function copyText() {
 
 <!-- 左：基礎會員 -->
 <div class="plan">
-  <div>
+  <div class="plan-top">
     <div class="badge">包月</div>
     <h2>基礎會員</h2>
     <div class="price">$28/月</div>
@@ -142,20 +165,20 @@ function copyText() {
     </div>
   </div>
 
-  <a href="https://www.patreon.com/checkout/hktrade2022?rid=24676913" class="btn patreon">
-    Patreon包月購買
-  </a>
-
-  <!-- ✅ 已移动到左边 -->
-  <a href="https://www.patreon.com/checkout/hktrade2022?pvid=3687763" class="btn patreon">
-    Patreon一次性購買
-  </a>
-
+  <!-- 用 plan-bottom 將按鈕包起來，設定自動拉伸 -->
+  <div class="plan-bottom left-bottom">
+    <a href="https://www.patreon.com/checkout/hktrade2022?rid=24676913" class="btn patreon">
+      Patreon包月購買
+    </a>
+    <a href="https://www.patreon.com/checkout/hktrade2022?pvid=3687763" class="btn patreon">
+      Patreon一次性購買
+    </a>
+  </div>
 </div>
 
 <!-- 右：進階會員 -->
 <div class="plan">
-  <div>
+  <div class="plan-top">
     <div class="badge">🔥終身</div>
     <h2>進階會員</h2>
     <div class="price">$99</div>
@@ -168,22 +191,21 @@ function copyText() {
     </div>
   </div>
 
-  <a href="https://discord.com/invite/9swwTU27At" class="btn telegram">
-    加入 Discord 付費加群主 ai_nasdaq ，免費點擊鏈接
-  </a>
-
-  <a href="https://t.me/hktrade2024" class="btn telegram">
-    加入Telegram
-  </a>
-
-  <button onclick="copyText()" class="btn copybtn">
-    TRC20 一次性購買（點擊複製地址）
-  </button>
-
-  <div class="copy-box">
-    TJNuae782CSJJgr8A7pSRztPWpdJG2poXJ
+  <!-- 右側內容 -->
+  <div class="plan-bottom">
+    <a href="https://discord.com/invite/9swwTU27At" class="btn telegram">
+      加入 Discord 付費加群主 ai_nasdaq ，免費點擊鏈接
+    </a>
+    <a href="https://t.me/hktrade2024" class="btn telegram">
+      加入Telegram
+    </a>
+    <button onclick="copyText()" class="btn copybtn">
+      TRC20 一次性購買（點擊複製地址）
+    </button>
+    <div class="copy-box">
+      TJNuae782CSJJgr8A7pSRztPWpdJG2poXJ
+    </div>
   </div>
-
 </div>
 
 </div>
@@ -207,29 +229,27 @@ function copyText() {
     訂閱 YouTube
   </a>
 
-    <a href="https://discord.gg/9swwTU27At" class="btn social">
-     Discord group
+  <a href="https://discord.gg/9swwTU27At" class="btn social">
+    Discord group
   </a>
 
-    <a href="https://www.instagram.com/algo.chang" class="btn social">
-     Instagram
+  <a href="https://www.instagram.com/algo.chang" class="btn social">
+    Instagram
   </a>
 
-    <a href="http://facebook.com/hktrade2022" class="btn social">
-     Facebook
+  <a href="http://facebook.com/hktrade2022" class="btn social">
+    Facebook
   </a>
 
-    <a href="http://patreon.com/c/hktrade2022" class="btn social">
-     Patreon
+  <a href="http://patreon.com/c/hktrade2022" class="btn social">
+    Patreon
   </a>
-
   
   <a href="https://j.moomoo.com/00yLZM" class="btn social">
     Moomoo 全球开户，领 英伟达 股票，转仓送现金奖励
   </a>
 
-
-    <a href="https://tigr.link/9APfH6 " class="btn social">
+  <a href="https://tigr.link/9APfH6 " class="btn social">
     老虎国际 支持CPF/SRS交易和CDP卖出 非美国开户链接
   </a>
   
