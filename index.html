@@ -22,91 +22,51 @@ body {
   text-align: center;
 }
 
-h1 { font-size: 32px; }
-
-.plans {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-  /* 預設 align-items: stretch，會讓左右卡片等高 */
+h1 { 
+  font-size: 32px; 
+  margin-bottom: 30px;
 }
 
-.plan {
-  background: #111827;
-  border-radius: 12px;
-  padding: 25px;
-  width: 320px;
+/* 社交媒體按鈕容器，改為垂直排列以適應手機螢幕 */
+.social-links {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  gap: 16px; /* 按鈕之間的間距 */
+  margin-bottom: 40px;
 }
 
-/* 將按鈕區域單獨包裹，方便控制高度 */
-.plan-bottom {
-  display: flex;
-  flex-direction: column;
-  flex-grow: 1; /* 佔滿剩餘高度 */
-  gap: 12px;
-  margin-top: 20px;
-  justify-content: flex-end; /* 右側內容靠下對齊 */
-}
-
-.left-bottom .btn {
-  flex-grow: 1; /* 讓左側的兩個 Patreon 按鈕自動拉伸填滿高度 */
+/* 加大按鈕尺寸，優化手機觸控體驗 */
+.btn {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.badge {
-  background: #00ffcc;
-  color: #000;
-  padding: 8px 14px;
-  border-radius: 8px;
-  font-size: 16px;
-  font-weight: bold;
-  margin-bottom: 10px;
-  display: inline-block;
-}
-
-.price {
-  font-size: 30px;
-  margin: 15px 0;
-  color: #00ffcc;
-}
-
-.features {
-  text-align: left;
-  line-height: 1.8;
-  margin-bottom: 20px;
-}
-
-.btn {
-  display: block;
-  padding: 13px;
-  border-radius: 6px;
+  width: 100%; /* 手機上滿版寬度 */
+  max-width: 600px; /* 限制在電腦版上的最大寬度 */
+  min-height: 56px; /* 確保按鈕夠高，方便手指點擊 */
+  padding: 16px 20px;
+  border-radius: 12px;
   text-decoration: none;
   color: white;
   font-weight: bold;
-  cursor: pointer;
+  font-size: 16px; /* 加大字體 */
+  text-align: center;
   border: none;
-  font-size: 15px;
+  transition: background 0.3s;
+  touch-action: manipulation; /* 優化手機點擊反應 */
 }
 
-.telegram { background: #2CA5E0; }
-.patreon { background: #E85B46; }
-.copybtn { background: #16a34a; }
-.social { background: #333; margin-top: 10px; }
+.social { 
+  background: #333; 
+}
 
-.copy-box {
-  padding: 10px;
-  background: #000;
-  border-radius: 6px;
-  word-break: break-all;
+.social:hover, .social:active {
+  background: #444;
+  transform: scale(0.98);
 }
 
 .block {
-  margin-top: 50px;
+  margin-top: 20px;
   background: #111827;
   padding: 25px;
   border-radius: 12px;
@@ -115,8 +75,8 @@ h1 { font-size: 32px; }
 }
 
 .block ul {
-  text-align: center; /* 讓列表文字置中 */
-  list-style-position: inside; /* 讓前面的圓點也一起跟著置中 */
+  text-align: center;
+  list-style-position: inside;
   padding: 0;
   margin: 10px 0 0 0;
 }
@@ -128,17 +88,10 @@ h1 { font-size: 32px; }
 .footer {
   margin-top: 40px;
   color: #fff;
-  font-size: 16px; /* 字體加大 (原本 13px) */
-  line-height: 1.8; /* 增加行距讓多行文字更易讀 */
+  font-size: 16px;
+  line-height: 1.8;
 }
 </style>
-
-<script>
-function copyText() {
-  navigator.clipboard.writeText("TJNuae782CSJJgr8A7pSRztPWpdJG2poXJ");
-  alert("地址已複製");
-}
-</script>
 
 </head>
 
@@ -146,125 +99,65 @@ function copyText() {
 
 <div class="container">
 
-<h1>🚀 美股數據頻道VIP會員</h1>
+  <h1>🚀 美股數據頻道VIP會員</h1>
 
-<div class="plans">
+  <!-- 移至頂部並放大為手機觸控尺寸的社交媒體按鈕 -->
+  <div class="social-links">
+    <a href="https://youtube.com/@tg_discord" class="btn social">
+      YouTube
+    </a>
 
-<!-- 左：基礎會員 -->
-<div class="plan">
-  <div class="plan-top">
-    <div class="badge">包月</div>
-    <h2>基礎會員</h2>
-    <div class="price">$28/月</div>
+    <a href="https://discord.gg/9swwTU27At" class="btn social">
+      Discord group + @ai_nasdaq
+    </a>
 
-    <div class="features">
-      ✔ 盤前盤中分析<br>
-      ✔ 熱門股票趨勢<br>
-      ✔ 正股期權策略<br>
-      ✔ 專屬TG群組
-    </div>
+    <a href="https://www.instagram.com/algo.chang" class="btn social">
+      Instagram
+    </a>
+
+    <a href="http://facebook.com/hktrade2022" class="btn social">
+      Facebook
+    </a>
+
+    <a href="http://patreon.com/c/hktrade2022" class="btn social">
+      Patreon
+    </a>
+    
+    <a href="https://j.moomoo.com/00yLZM" class="btn social">
+      Moomoo 全球開戶，領 英偉達 股票，轉倉送現金獎勵
+    </a>
+
+    <a href="https://tigr.link/9APfH6" class="btn social">
+      老虎國際 支持CPF/SRS交易和CDP賣出 非美國開戶鏈接
+    </a>
   </div>
 
-  <!-- 用 plan-bottom 將按鈕包起來，設定自動拉伸 -->
-  <div class="plan-bottom left-bottom">
-    <a href="https://www.patreon.com/checkout/hktrade2022?rid=24676913" class="btn patreon">
-      通過Patreon支付 包月$28
-    </a>
-    <a href="https://www.patreon.com/checkout/hktrade2022?pvid=3687763" class="btn patreon">
-      通過Patreon支付 終身$99
-    </a>
-  </div>
-</div>
-
-<!-- 右：進階會員 -->
-<div class="plan">
-  <div class="plan-top">
-    <div class="badge">🔥終身</div>
-    <h2>進階會員</h2>
-    <div class="price">$99</div>
-
-    <div class="features">
-      ✔ SPY SPX 期權策略<br>
-      ✔ 專屬TG群組<br>
-      ✔ 高勝率交易策略<br>
-      ✔ 一對一解答
-    </div>
+  <div class="block">
+    <h3>會員群福利 訂閱進Group<br> Telegram / Discord / Wechat / Whatsapp</h3>
+    <ul>
+      <li>股票交流（正股，ETF，期權）以及即時交易分享</li>
+      <li>股票資料查詢（期權異動、暗池異動等）</li>
+      <li>經驗分享與交易邏輯學習</li>
+      <li>Tradingview技術圖分析與入場點位</li>
+      <li>大單異動與重要新聞提示</li>
+    </ul>
   </div>
 
-  <!-- 右側內容 -->
-  <div class="plan-bottom">
-    <a href="https://discord.com/invite/9swwTU27At" class="btn telegram">
-      加入 Discord 付費加群主 Discord ID ：ai_nasdaq ，點擊群鏈接申請。
-    </a>
-    <a href="https://t.me/hktrade2024" class="btn telegram">
-      添加群主 Telegram 
-    </a>
-    <button onclick="copyText()" class="btn copybtn">
-      終身 100 USDT 使用TRC20網絡支付（點擊複製下方地址）
-    </button>
-    <div class="copy-box">
-      TJNuae782CSJJgr8A7pSRztPWpdJG2poXJ
-    </div>
+  <div class="qr">
+    <h3>📱 掃碼加群主Telegram</h3>
+    <img src="img/22.png" width="180" alt="Telegram QR Code">
   </div>
-</div>
 
-</div>
+  <div class="footer">
+    TG: @hktrade2024 ｜ DC: @ai_nasdaq  <br><br>
 
-<div class="block">
-<h3>會員群福利 訂閱進Group<br> Telegram / Discord / Wechat / Whatsapp</h3>
-<ul>
-<li>股票交流（正股，ETF，期權）以及即時交易分享</li>
-<li>股票資料查詢（期權異動、暗池異動等）</li>
-<li>經驗分享與交易邏輯學習</li>
-<li>Tradingview技術圖分析與入場點位</li>
-<li>大單異動與重要新聞提示</li>
-</ul>
-</div>
+    📧 <a href="mailto:support@ai-youtu.com" style="color:white;">
+      support@ai-youtu.com
+    </a>
 
-<div class="qr">
-  <h3>📱 掃碼加群主Telegram</h3>
-  <img src="img/22.png" width="180">
-
-  <a href="https://youtube.com/@tg_discord" class="btn social">
-    YouTube
-  </a>
-
-  <a href="https://discord.gg/9swwTU27At" class="btn social">
-    Discord group + @ai_nasdaq
-  </a>
-
-  <a href="https://www.instagram.com/algo.chang" class="btn social">
-    Instagram
-  </a>
-
-  <a href="http://facebook.com/hktrade2022" class="btn social">
-    Facebook
-  </a>
-
-  <a href="http://patreon.com/c/hktrade2022" class="btn social">
-    Patreon
-  </a>
-  
-  <a href="https://j.moomoo.com/00yLZM" class="btn social">
-    Moomoo 全球開戶，領 英偉達 股票，轉倉送現金獎勵
-  </a>
-
-  <a href="https://tigr.link/9APfH6 " class="btn social">
-    老虎國際 支持CPF/SRS交易和CDP賣出 非美國開戶鏈接
-  </a>
-  
-</div>
-
-<div class="footer">
-TG: @hktrade2024 ｜ DC: @ai_nasdaq  <br><br>
-
-📧 <a href="mailto:support@ai-youtu.com" style="color:white;">
-support@ai-youtu.com
-</a>
-
-<br><br>
-© 2026 美股數據頻道
-</div>
+    <br><br>
+    © 2026 美股數據頻道
+  </div>
 
 </div>
 
